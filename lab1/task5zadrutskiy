@@ -1,0 +1,255 @@
+Script started on 2025-02-17 20:57:08+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="85" LINES="25"]
+[0m[49m[39m[27m[24m[K
+[1A7[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[49m[39m[27m[24m[J]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                    [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[80C[0m[49m[39m[80D[?1h=[?25h[?2004hl[32ml[39m[32ml[39m[90ms -help[39m[32ml[32ms[39m[32ml[32ms[32m [39m[32ml[32ms[39m[39m [39m-[39m-[39m [39m [39m help[?1l>[?2004l[?25l[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mls[39m --help[K[?25h
+]2;ls --color=tty --help]1;lsUsage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      with -l, scale sizes by SIZE when printing them;
+                             e.g., '--block-size=M'; see SIZE format below
+
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                             change of file status information);
+                             with -l: show ctime and sort by name;
+                             otherwise: sort by ctime, newest first
+
+  -C                         list entries by columns
+      --color[=WHEN]         color the output WHEN; more info below
+  -d, --directory            list directories themselves, not their contents
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         list all entries in directory order
+  -F, --classify[=WHEN]      append indicator (one of */=>@|) to entries WHEN
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                             single-column -1, verbose -l, vertical -C
+
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                             can be augmented with a --sort option, but any
+                             use of --sort=none (-U) disables grouping
+
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l and -s, print sizes like 1K 234M 2G etc.
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                             that points to a directory
+
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                             (overridden by -a or -A)
+
+      --hyperlink[=WHEN]     hyperlink file names WHEN
+      --indicator-style=WORD
+                             append indicator with style WORD to entry names:
+                             none (default), slash (-p),
+                             file-type (--file-type), classify (-F)
+
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for file system usage;
+                             used only with -s and per directory totals
+
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                             link, show information for the file the link
+                             references rather than for the link itself
+
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print entry names without quoting
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                             unless program is 'ls' and output is a terminal)
+
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                             literal, locale, shell, shell-always,
+                             shell-escape, shell-escape-always, c, escape
+                             (overrides QUOTING_STYLE environment variable)
+
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size, largest first
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                             time (-t), version (-v), extension (-X), width
+
+      --time=WORD            select which timestamp used to display or sort;
+                               access time (-u): atime, access, use;
+                               metadata change time (-c): ctime, status;
+                               modified time (default): mtime, modification;
+                               birth time: birth, creation;
+                             with -l, WORD determines which time to show;
+                             with --sort=time, sort by WORD (newest first)
+
+      --time-style=TIME_STYLE
+                             time/date format with -l; see TIME_STYLE below
+  -t                         sort by time, newest first; see --time
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                             with -l: show access time and sort by name;
+                             otherwise: sort by access time, newest first
+
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           set output width to COLS.  0 means no limit
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any security context of each file
+      --zero                 end each output line with NUL, not newline
+  -1                         list one file per line
+      --help        display this help and exit
+      --version     output version information and exit
+
+The SIZE argument is an integer and optional unit (example: 10K is 10*1024).
+Units are K,M,G,T,P,E,Z,Y,R,Q (powers of 1024) or KB,MB,... (powers of 1000).
+Binary prefixes can be used, too: KiB=K, MiB=M, and so on.
+
+The TIME_STYLE argument can be full-iso, long-iso, iso, locale, or +FORMAT.
+FORMAT is interpreted like in date(1).  If FORMAT is FORMAT1<newline>FORMAT2,
+then FORMAT1 applies to non-recent files and FORMAT2 to recent files.
+TIME_STYLE prefixed with 'posix-' takes effect only outside the POSIX locale.
+Also the TIME_STYLE environment variable sets the default style to use.
+
+The WHEN argument defaults to 'always' and can also be 'auto' or 'never'.
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors(1) command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation <https://www.gnu.org/software/coreutils/ls>
+or available locally via: info '(coreutils) ls invocation'
+[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[80C[0m[49m[39m[80D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms --help[39m[8D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mls[39m[K[?25h
+]2;ls --color=tty]1;ls[0m[01;34mDesktop[0m    [01;34mDownloads[0m  [01;34mPictures[0m  task5zadrutskiy  timelog5zadrutskiy
+[01;34mDocuments[0m  [01;34mMusic[0m      [01;34mPublic[0m    [01;34mTemplates[0m        [01;34mVideos[0m
+[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[80C[0m[49m[39m[80D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mlear[39m[1m[31mc[1m[31md[0m[39m[39m [39m [39m [0m[32mc[0m[32md[39m[90m /media/user/VBox_GAs_7.1.6/[39m[28D[32mc[32md[32m [39m[32mc[32md[39m[39m [39mD[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[4mD[24m[90mownloads[39m[8D[24mD
+[J[01;34mDesktop[0m/    [J[01;34mDocuments[0m/  [J[01;34mDownloads[0m/[J[A[0m[27m[24m[0m[27m[24m[39m[49m[4C[32mcd[39m D[90mownloads[39m[K[68C[0m[49m[39m[0m[27m[24m[39m[49m[76D[4mD[24m[4mD[39m[4me[39m[4ms[39m[4mk[39m[4mt[39m[4mo[39m[4mp[39m[1m[4m/[0m[24m[39m 
+[J[7mDesktop/  [0m  [J[01;34mDocuments[0m/  [J[01;34mDownloads[0m/[J[A[0m[27m[24m[0m[27m[24m[39m[49m[4C[32mcd[39m [4mDesktop[1m[4m/[0m[24m[K[69C[0m[49m[39m[0m[27m[24m[39m[49m[69D
+[7mDesktop/  [0m  [7mDesktop/  [0m  [A[0m[27m[24m[0m[27m[24m[39m[49m[4C[32mcd[39m [4mDesktop[1m[4m/[0m[24m[K[69C[0m[49m[39m[0m[27m[24m[39m[49m[69D[4mo[4mc[4mu[4mm[4me[4mn[0m[4mt[4ms[1m[4m/[0m[24m
+[12C[7mDocuments/[0m  [01;34mDesktop[0m/    [A[0m[27m[24m[0m[27m[24m[39m[49m[4C[32mcd[39m [4mDocuments[1m[4m/[0m[24m[K[67C[0m[49m[39m[0m[27m[24m[39m[49m[67D
+[J[A[17C[4ms[24m[0m[24m [?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mcd[39m [4mDocuments[24m[K[?25h
+]2;cd Documents]1;cd[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hp[1m[31mp[0m[39m[1m[31mp[0m[39m[90ming 8.8.8.8[39m[11D[1m[31mp[1m[31mw[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[1m[31mp[1m[31mw[1m[31md[0m[39m[0m[32mp[0m[32mw[0m[32md[39m[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mpwd[39m[K[?25h
+]2;pwd]1;pwd/home/user/Documents
+[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90man script[39m[9D[1m[31mm[1m[31mk[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [8D[1m[31mm[1m[31mk[1m[31md[0m[39m[1m[31md[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[1m[31mi[0m[39m[0m[39m [1m[31mi[1m[31mr[0m[39m[0m[32mm[0m[32mk[0m[32md[0m[32mi[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m test[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mmkdir[39m test[K[?25h
+]2;mkdir test]1;mkdir[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hr[32mr[39m[32mr[32mm[39m[32mr[32mm[32md[39m[1m[31mr[1m[31mm[1m[31md[0m[39m[1m[31md[1m[31mi[0m[39m[0m[32mr[0m[32mm[0m[32md[0m[32mi[32mr[39m[1m [0m[1m [1mt[0m[0m [0m[4mt[24m[4mt[4mest[1m[4m/[0m[24m[4mt[24m[0m[24m [?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mrmdir[39m [4mtest[24m[K[?25h
+]2;rmdir test]1;rmdir[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[1m[31mo[0m[39m[1m[31mt[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mc[0m[39m[1m[31mc[1m[31mh[0m[39m[0m[32mt[0m[32mo[0m[32mu[0m[32mc[0m[32mh[39m[32mh[32m [39m[32mh[39m[39m test[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mtouch[39m test[K[?25h
+]2;touch test]1;touch[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90md Documents[39m[11D[1m[31mc[1m[31mp[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[0m[32mc[0m[32mp[39m[39mc[39mp
+[0mcp                         cpgr                       cpp-13                   
+cpan                       cpio                       cppw                     
+[Jcpan5.38-x86_64-linux-gnu  [Jcpp                        [JCPUTYPE                  [J[3A[0m[27m[24m[0m[27m[24m[39m[49m[14Ccp[K[68C[0m[49m[39m[0m[27m[24m[39m[49m[68D[32mc[32mp[39m[32mc[32mp[32m [39m[32mc[32mp[39m[39m [4mtest[24m[1m [0m[0m [4mtest[24m[1m [0m[0m [4mt[4m2[24m[24mt[24me[24ms[24mt[24m2[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mcp[39m [4mtest[24m test2[K[?25h
+]2;cp test test2]1;cp[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90mkdir test[39m[9D[1m[31mm[1m[31mv[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [8D[0m[32mm[0m[32mv[39m[32mm[32mv[32m [39m[32mm[32mv[39m[39m t[4mt[24m[4mt[4me[24m[4me[4ms[24m[4ms[4mt[24m[4mt[4m2[24m[4m2[4m [24m[4m2[24m[24m /[4m/[24m[24m/
+[01;36mbin[0m@                 [01;36mlib[0m@                 [01;34mproc[0m/                [01;34msys[0m/               
+[01;34mbin.usr-is-merged[0m/   [01;36mlib64[0m@               [01;34mroot[0m/                [30;42mtmp[0m/               
+[01;34mboot[0m/                [01;34mlib.usr-is-merged[0m/   [01;34mrun[0m/                 [01;34musr[0m/               
+[01;34mcdrom[0m/               [01;34mlost+found[0m/          [01;36msbin[0m@                [01;34mvar[0m/               
+[01;34mdev[0m/                 [01;34mmedia[0m/               [01;34msbin.usr-is-merged[0m/                     
+[01;34metc[0m/                 [01;34mmnt[0m/                 [01;34msrv[0m/                                    
+[J[01;34mhome[0m/                [J[01;34mopt[0m/                 [Jswapfile             [J                   [7A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m /[K[60C[0m[49m[39m[0m[27m[24m[39m[49m[60D[4m/[24m[24m ~[4m~[24m[24m~
+[J[0mbackup             irc                speech-dispatcher  tcpdump          
+colord             kernoops           sssd               tss              
+cups-browsed       lightdm            sys                user             
+cups-pk-helper     list               syslog             uuidd            
+dhcpcd             nm-openvpn         systemd-coredump   vboxadd          
+fwupd-refresh      proxy              systemd-network    www-data         
+geoclue            root               systemd-resolve                     
+[Jhplip              [Jsaned              [Jsystemd-timesync   [J                 [8A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m ~[K[60C[0m[49m[39m[0m[27m[24m[39m[49m[60D[4m~[24m[4m~[4m/[24m[24m~[24m/
+[J[01;34mDesktop[0m/            [01;34mMusic[0m/              task5zadrutskiy     [01;34mVideos[0m/           
+[01;34mDocuments[0m/          [01;34mPictures[0m/           [01;34mTemplates[0m/                            
+[J[01;34mDownloads[0m/          [J[01;34mPublic[0m/             [Jtimelog5zadrutskiy  [J                  [3A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m ~/[K[59C[0m[49m[39m[0m[27m[24m[39m[49m[59D[4m~[4m/[24m[4m/[4mDesktop[1m[4m/[0m[24m
+[7mDesktop/          [0m  [01;34mMusic[0m/              task5zadrutskiy     [01;34mVideos[0m/           [K
+[01;34mDocuments[0m/          [01;34mPictures[0m/           [01;34mTemplates[0m/                            [K
+[J[01;34mDownloads[0m/          [J[01;34mPublic[0m/             [Jtimelog5zadrutskiy  [J                  [3A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m [4m~/Desktop[1m[4m/[0m[24m[K[51C[0m[49m[39m[0m[27m[24m[39m[49m[51D
+[7mDesktop/          [0m  [7mDesktop/          [0m  [A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m [4m~/Desktop[1m[4m/[0m[24m[K[51C[0m[49m[39m[0m[27m[24m[39m[49m[51D[4mo[4mc[4mu[4mm[4me[4mn[0m[4mt[4ms[1m[4m/[0m[24m
+[01;34mDesktop[0m/            [1B[7mDocuments/        [0m  [A[A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m [4m~/Documents[1m[4m/[0m[24m[K[49C[0m[49m[39m[0m[27m[24m[39m[49m[49D[8D[4mw[4mn[4ml[4mo[4ma[4md[2C[24m
+[1B[01;34mDocuments[0m/          [1B[7mDownloads/        [0m  [3A[0m[27m[24m[0m[27m[24m[39m[49m[14C[32mmv[39m [4mtest2[24m [4m~/Downloads[1m[4m/[0m[24m[K[49C[0m[49m[39m[0m[27m[24m[39m[49m[49D
+[J[A[35C[4ms[24m[0m[24m [?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mmv[39m [4mtest2[24m [4m~/Downloads[24m[K[?25h
+]2;mv test2 ~/Downloads]1;mv[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hr[32mr[39m[32mr[39m[90mmdir test[39m[9D[32mr[32mm[39m[32mr[32mm[32m [39m[39m [39m [39m [39m [39m [39m [39m [32mr[32mm[39m[39m [4mtest[24m[1m [0m[0m [?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mrm[39m [4mtest[24m[K[?25h
+]2;rm test]1;rm[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004hh[1m[31mh[0m[39m[1m[31mh[0m[39m[90melp ls[39m[1m[31mh[1m[31mi[0m[39m[39m [39m [39m [39m [39m [1m[31mh[1m[31mi[1m[31ms[0m[39m[1m[31ms[1m[31mt[0m[39m[1m[31mt[1m[31mo[0m[39m[1m[31mo[1m[31mr[0m[39m[1m[31mr[1m[31my[0m[39m[0m[32mh[0m[32mi[0m[32ms[0m[32mt[0m[32mo[0m[32mr[0m[32my[39m[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mhistory[39m[K[?25h
+]2;omz_history]1;history    1  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+    2  sudo nano ~/.zshrc
+    3  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+    4  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+    5  sudo nano ~/.zshrc
+    6  shell
+    7  sudo chsh -s /bin/zsh
+    8  exit
+    9  ls
+   10  chsh
+   11  cat /etc/shells
+   12  sudo apt install zsh
+   13  chsh -s /usr/bin/zsh
+   14  sudo apt search konsole
+   15  sudo apt install konsole
+   16  sudo apt uninstall konsole
+   17  sudo apt remove konsole
+   18  ls
+   19  man ls
+   20  man script
+   21  sudo adduser user vboxsf
+   22  cd Downloads
+   23  ls
+   24  cd /media/user/VBox_GAs_7.1.6/
+   25  sudo -i
+   26  neofetch
+   27  zsh
+   28  neofetch
+   29  clear
+   30  neofetch
+   31  ping 127.0.0.1
+   32  ping 8.8.8.8
+   33  neofetch
+   34  clear
+   35  script task5zadrutskiy.txt
+   36  exit
+   37  script -t timelog5zadrutskiy task5zadrutskiy.txt
+   38  script -ttimelog5zadrutskiy task5zadrutskiy.txt
+   39  help ls
+   40  exit
+   41  script -ttimelog5zadrutskiy task5zadrutskiy
+   42  ls -help
+   43  exit
+   44  script -ttimelog5zadrutskiy task5zadrutskiy
+   45  ls --help
+   46  ls
+   47  cd Documents
+   48  pwd
+   49  mkdir test
+   50  rmdir test
+   51  touch test
+   52  cp test test2
+   53  mv test2 ~/Downloads
+   54  rm test
+[1m[7m%[27m[1m[0m                                                                                     ]2;user@vbox:~/Documents]1;~/Documents]7;file://vbox/home/user/Documents\[0m[27m[24m[J[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mDocuments[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[70C[0m[49m[39m[70D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l[?25l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mexit[39m[K[?25h
+]2;exit]1;exit
+Script done on 2025-02-17 20:59:58+03:00 [COMMAND_EXIT_CODE="0"]
