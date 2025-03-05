@@ -10,3 +10,4 @@
 ---
 ## [Лабораторная работа №3](https://www.dropbox.com/scl/fo/m1pfhvgwvbulxemg13vz1/AI8ViMp078x41xQrKlfmOIs?rlkey=xku1i91qcka0q6fd4wl7ufysp&st=s42e0ldb&dl=0)
 ---
+## [Лабораторная работа №4](https://www.dropbox.com/scl/fo/e7ad7ephkdw9a9uq5066p/AJR7fRTAb1KtP4K2j9gycf4?rlkey=q3eltx7wetwvdjp4ux6riyjvc&st=bucal9iw&dl=0)
