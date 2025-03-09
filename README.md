@@ -1,6 +1,6 @@
 # linux-labs2025-securo
 
-# Отчеты по лабораторным работам
+#[Отчеты по лабораторным работам](https://www.dropbox.com/scl/fo/45un1jdivid26d3gg84vu/ANJfb8z-aZPZgdevyIiHbwQ?rlkey=i9br7o73huh5onil1h008onp0&st=ol5wtz2y&dl=0)
 ---
 ## [Лабораторная работа №1](https://www.dropbox.com/scl/fo/vticrq13uosjav3mje93u/AHk0nzF1d0nnlPG6EFnfMZQ?rlkey=8k655wio5yf44v4ooinc61ou1&st=80gpe49q&dl=0)
 ---
