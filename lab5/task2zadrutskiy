@@ -1,1097 +1,0 @@
-Script started on 2025-03-08 13:22:20+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-[0m[49m[39m[27m[24m[K
-[1A7[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[49m[39m[27m[24m[J]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?25h[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90md [39m[1m[31mc[1m[31md[0m[39m[0m[32mc[0m[32md[39m[32mc[32md[32m [39m[32mc[32md[39m[39m t[4mt[24m[90mmp[39m[4mt[39m[4m,[24m[39m [24mt[24m, [4mt[24m[90mmp[39m[24mt
-[J[01;34mTemplates[0m/  [J[01;34mtmp[0m/      [J[A[0m[27m[24m[0m[39m[49m[4C[32mcd[39m t[90mmp[39m[K[69C[0m[49m[39m[0m[39m[49m[71D[4mt[24m[39mm[39mp[4mt[4mm[4mp[24m[?1l>[?2004l
-[J]2;cd tmp]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[38;5;31m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mouch file1.txt file2.txt file3.txt[39m[34D[1m[31mt[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[90mr -rvf arc.tar file3.txt[39m[24D[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[90mvf ubuntu.iso.tar  /home/user/Downloads/ubuntu-24.04.2-desktop-amd[90m6[90m4.iso [39m[K[A[7C[39mv[39mf[39m [39ma[K[61C[0m[49m[39m[1B[K[A[18C[4ma[24m[90mrch.tar  file1.txt file2.txt file3.txt [39m[39D[39mr[39mc[39mh[39m.[39mt[39ma[39mr[39m [39m [39mf[39mi[39ml[39me[39m1[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m2[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m3[39m.[39mt[39mx[39mt[39m [40D[24ma[9C[4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[1C[90m [39m[4mx[24m[24m [39m [90mt [39m[4mt[24m[24m [39m [39m [90mxt [39m[4m.[24m[24m [39m [39m [39m [90mtxt [39m[4m3[24m[24m [39m [39m [39m [39m [90m.txt [39m[4me[24m[24m [39m [39m [39m [39m [39m [90m3.txt [39m[4ml[24m[24m [39m [39m [39m [39m [39m [39m [90me3.txt [39m[4mi[24m[24m [39m [39m [39m [39m [39m [39m [39m [8D[90mle3.txt [39m[8D[4mf[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [9D[90mile3.txt [39m[9D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mfile3.txt [39m[10D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90m file3.txt [39m[11D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[?1l>[?2004l[1B]2;tar -cvf arch.tar file1.txt file2.txt]1;tarfile1.txt
-file2.txt
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -cvf arch.tar  file1.txt file2.txt[39m[37D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mx[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[90mvf arc.tar -C another-dir[39m[25D[39mv[39mf[39m [39ma[39mr[39mc[39m.[39mt[39ma[39mr[39m [39m-[39mC[39m [39ma[39mn[39mo[39mt[39mh[39me[39mr[39m-[39md[39mi[39mr[11D[4ma[4mn[4mo[4mt[4mh[4me[4mr[4m-[4md[4mi[4mr[24mh.tar -C[24m [4ma[4mn[4mo[4mt[4mh[4me[4mr[4m-[4md[4mi[4mr[24m[19D[4ma[4mr[4mc[4mh[4m.[4mt[4ma[4mr[24m[?1l>[?2004l
-]2;tar -xvf arch.tar -C another-dir]1;tarfile1.txt
-file2.txt
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -xvf arch.tar -C another-dir[39m[31D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mr[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90mvf arc.tar file3.txt[39m[20D[39mv[39mf[39m [39ma[4ma[24m[4ma[39m[4mr[24m[4mr[39m[4mc[24m[4mc[39m[4mh[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90m.tar file4.txt[39m[14D[4mh[39m[4m.[24m[4m.[39m[4mt[24m[4mt[39m[4ma[24m[4ma[39m[4mr[24m[4mr[39m[4m [24m[4mr[24m[24m [39mf[4mf[24m[24mf[39mi[39ml[39me[4mf[4mi[4ml[4me[24m[24mf[24mi[24ml[24me
-[J[0mfile1.txt  [Jfile2.txt  [Jfile3.txt[J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -rvf [4march.tar[24m file[90m4.txt[39m[K[44C[0m[49m[39m[0m[39m[49m[49D[4mf[4mi[4ml[4me[24m[4me[39m[4m1[39m[4m.[39m[4mt[39m[4mx[39m[4mt[24m
-[J[7mfile1.txt[0m  [Jfile2.txt  [Jfile3.txt[J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -rvf [4march.tar[24m [4mfile1.txt[24m[K[44C[0m[49m[39m[0m[39m[49m[44D
-[7mfile1.txt[0m  [7mfile1.txt[0m  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -rvf [4march.tar[24m [4mfile1.txt[24m[K[44C[0m[49m[39m[0m[39m[49m[44D[4m2[4C[24m
-[11C[7mfile2.txt[0m  file1.txt  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -rvf [4march.tar[24m [4mfile2.txt[24m[K[44C[0m[49m[39m[0m[39m[49m[44D[4m3[4C[24m
-[22C[7mfile3.txt[0m[11Cfile2.txt  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -rvf [4march.tar[24m [4mfile3.txt[24m[K[44C[0m[49m[39m[0m[39m[49m[44D
-[J[A[35C[1m [0m[0m [?1l>[?2004l
-[J]2;tar -rvf arch.tar file3.txt]1;tarfile3.txt
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -rvf arch.tar file3.txt[39m[26D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mw[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D [90mrvf arch.tar file3.txt[39m[22D[39mr [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[90mrvf arch.tar file3.txt[39m[22D[39mt[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[90mvf example.tar[39m[14D[39mv[39mf[39m [39ma[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4ma[24m[90mrch.tar[39m[4ma[39m[4mr[24m[39mc[39mh[39m.[39mt[39ma[39mr[4mr[4mc[4mh[4m.[4mt[4ma[4mr[24m[?1l>[?2004l
-]2;tar -tvf arch.tar]1;tar-rw-rw-r-- user/user         0 2025-03-08 13:22 file1.txt
--rw-rw-r-- user/user         0 2025-03-08 13:22 file2.txt
--rw-rw-r-- user/user         0 2025-03-08 13:22 file3.txt
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90mkdir -p tmp/another-dir[39m[23D[1m[31mm[1m[31mv[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[0m[32mm[0m[32mv[39m[90m file4.txt file4.jpg[39m[20D[32mm[32mv[32m [39m[32mm[32mv[39m[39m [39mf[4mf[24m[4mf[39m[4mi[24m[24mf[24mi[39ml[39me[4mf[4mi[4ml[4me[24m[4me[39m[4m1[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[4m1[4m.[24m[4m.[4mtxt[24m[1m [0m[1m [1mf[0m[0m [0m[4mf[24m[4mf[4mi[24m[4mi[4ml[24m[4ml[4me[24m[24mf[24mi[24ml[24me
-[J[0mfile1.txt  [Jfile2.txt  [Jfile3.txt[J[A[0m[27m[24m[0m[39m[49m[8C[32mmv[39m [4mfile1.txt[24m file[K[54C[0m[49m[39m[0m[39m[49m[54D[4mf[4mi[4ml[4me[24m[4me[4m.[24m[24mf[24mi[24ml[24me[24m. [4mf[4mi[4ml[4me[24m[4me[4m1[24m[4m1[4m.[24m[4m1[24m[24m [4me[24m[24m [4me[4m.[24m[24mf[24mi[24ml[24me[24m. [4mf[4mi[4ml[4me[24m[4me[4m1[24m[4m1[4m.[24m[4m.[4mp[24m[24mf[24mi[24ml[24me[24m1[24m.[24mpn  [4mf[4mi[4ml[4me[4m1[4m.[24m[4m.[4md[24m[24mf[24mi[24ml[24me[24m1[24m.[24md [4mf[4mi[4ml[4me[4m1[4m.[24m[4m1[24m[24m [4me[24m[24m [4ml[24m[24m [4mi[24m[24m [4mf[24m[24m [24m [4mx[24m[24m [4mt[24m[24m [4m.[24m[24m [4m1[24m[24m [4me[24m[24m [90m4.txt file4.jpg[39m[15D[4ml[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90me4.txt file4.jpg[39m[16D[4mi[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[90mle4.txt file4.jpg[39m[17D[4mf[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[90mile4.txt file4.jpg[39m[18D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[90mfile4.txt file4.jpg[39m[19D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[90m file4.txt file4.jpg[39m[20D[32mm[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[1m[31mm[0m[39m[1m[31mm[0m[39m[90mkdir -p tmp/another-dir[39m[23D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24Dt[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -tvf arch.tar[39m[16D[1m[31mt[1m[31mo[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[90much file1.txt file2.txt file3.txt[39m[33D[39mu[39mc[39mh[39m [39mf[39mi[39ml[39me[39m1[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m2[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m3[39m.[39mt[39mx[39mt[35D[0m[32mt[0m[32mo[32mu[32mc[32mh[39m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[4mx[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [21D[8D[24mf[24mi[24ml[24me[24m1[24m.[24mt[24mx [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [21D [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [21Dt[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[20Dx[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[20Dt[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[20D[9D[4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[1C[1C[1C[1C[1C[1C[1C[1C[1C[4mt[24m[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [12D[24mf[24mi[24ml[24me[24m2[24m.[24mt[24mt[1C [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [11D [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[24m [11Dd[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[10Do[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[10Dc[24m [4mf[4mi[4ml[4me[4m3[4m.[4mt[4mx[4mt[24m[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[4mx[24m[24m [4mt[24m[24m [4m.[24m[24m [4m.[4md[24m[24mf[24mi[24ml[24me[24m3[24m.[24mdocx f[4mf[24m[4mf[4mi[24m[4mi[4ml[24m[4ml[4me[24m[4me[4m4[24m[24mf[24mi[24ml[24me[24m4.png[?1l>[?2004l
-[J]2;touch file1.txt file2.doc file3.docx file4.png]1;touch[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mouch file1.txt file2.doc file3.docx file4.png[39m[45D[1m[31mt[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[90mr -tvf arch.tar[39m[15D[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90mvf arch.tar  file1.txt file2.txt[39m[32D[39mv[39mf[39m [39ma[39mr[39mc[39mh[39m.[39mt[39ma[39mr[39m [39m [39mf[39mi[39ml[39me[39m1[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m2[39m.[39mt[39mx[39mt[29D[4ma[4mr[4mc[4mh[4m.[4mt[4ma[4mr[24m[2C[4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[4m.[4mt[4ma[4mr[24m[24m  [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [26D[24ma[24mr[24mc[24m.[24mt[24ma[24mr.tar  [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [26D.tar  [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [26D.tar  [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[24m [26De.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25Dx.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25Da.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25Dm.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25Dp.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25Dl.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25De.tar [24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m[24m [4mf[4mi[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[25D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[4mx[24m[24m [4mt[24m[24m [4m.[24m[24m [4m2[24m[24m [4me[24m[24m [4ml[24m[24m [4mi[24m[24m [4mf[24m[24m [24m [4mx[24m[24m [4mt[24m[24m [4m.[24m[24m [4m1[24m[24m [4me[24m[24m [4ml[24m[24m [4mi[24m[24m [4mf[24m[24m [24m [90mfile1.txt file2.doc file3.docx file4.jpg [39m[41D[39mf[4mf[24m[4mf[39m[4mi[24m[39ml[39me[39m1[39m.[39mt[39mx[39mt[39m [39mf[39mi[39ml[39me[39m2[39m.[39md[39mo[39mc[39m [39mf[39mi[39ml[39me[39m3[39m.[39md[39mo[39mc[39mx[39m [39mf[39mi[39ml[39me[39m4[39m.[39mj[39mp[39mg[39m [40D[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m2[4m.[4md[4mo[4mc[24m [4mf[4mi[4ml[4me[4m3[4m.[4md[4mo[4mc[4mx[24m[11C[?1l>[?2004l
-]2;tar -cvf example.tar file1.txt file2.doc file3.docx file4.jpg]1;tarfile1.txt
-file2.doc
-file3.docx
-tar: file4.jpg: Cannot stat: No such file or directory
-tar: Exiting with failure status due to previous errors
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[32ml[39m[39m [32ml[39m[90ms[39m[39m [39m tar -cvf example.tar file1.txt file2.doc file3.docx file4.jpg [62D[32mt[32ma[32mr[39m[6C[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mt[4ma[4mr[24m [4mf[4mi[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4mf[4mi[4ml[4me[4m2[4m.[4md[4mo[4mc[24m [4mf[4mi[4ml[4me[4m3[4m.[4md[4mo[4mc[4mx[24m[11C[90m [39m [39m [90mg [39m [39m [39m [90mpg [39m [39m [39m [39m [4mf[4mi[4ml[4me[4m4[4m.[24m[90mjpg [39m[4m4[24m[24m [39m [39m [39m [39m [90m.jpg [39m[4me[24m[24m [39m [39m [39m [39m [39m [90m4.jpg [39m[4ml[24m[24m [39m [39m [39m [39m [39m [39m [90me4.jpg [39m[4mi[24m[24m [39m [39m [39m [39m [39m [39m [39m [8D[90mle4.jpg [39m[8D[4mf[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [9D[90mile4.jpg [39m[9D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mfile4.jpg [39m[10D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90m file4.jpg [39m[11D[4mx[39m[4m [24m[4mx[24m[24m [39mf[4mf[24m[24mf[39mi[39ml[39me[4mf[4mi[4ml[4me[24m[24mf[24mi[24ml[24me
-[J[0mfile1.txt   [Jfile2.doc   [Jfile2.txt   [Jfile3.docx  [Jfile3.txt   [J[01;35mfile4.png[0m [J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m file[90m4.jpg [39m[K[9C[0m[49m[39m[0m[39m[49m[15D[4mf[4mi[4ml[4me[24m[4me[39m[4m1[39m[4m.[39m[4mt[39m[4mx[39m[4mt[24m[39m 
-[J[7mfile1.txt [0m  [Jfile2.doc   [Jfile2.txt   [Jfile3.docx  [Jfile3.txt   [J[01;35mfile4.png[0m [J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile1.txt[24m[K[10C[0m[49m[39m[0m[39m[49m[10D
-[7mfile1.txt [0m  [7mfile1.txt [0m  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile1.txt[24m[K[10C[0m[49m[39m[0m[39m[49m[10D[4m2[4m.[4md[4mo[4mc[24m
-[12C[7mfile2.doc [0m  file1.txt   [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile2.doc[24m[K[10C[0m[49m[39m[0m[39m[49m[10D[4mt[4mx[4mt[24m
-[24C[7mfile2.txt [0m  [12Cfile2.doc   [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile2.txt[24m[K[10C[0m[49m[39m[0m[39m[49m[10D[4m3[4m.[4md[4mo[4mc[4mx[24m
-[36C[7mfile3.docx[0m  [24Cfile2.txt   [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile3.docx[24m[K[9C[0m[49m[39m[0m[39m[49m[9D[4mt[4mx[4mt[24m[24m 
-[48C[7mfile3.txt [0m  [36Cfile3.docx  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile3.txt[24m[K[10C[0m[49m[39m[0m[39m[49m[10D[4m4[4m.[4mp[4mn[4mg[24m
-[60C[7mfile4.png [0m[48Cfile3.txt   [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4mexample.tar[24m [4mfile1.txt[24m [4mfile2.doc[24m [4mfile3.docx[24m [4mfile4.png[24m[K[10C[0m[49m[39m[0m[39m[49m[10D
-[J[A[69C[1m [0m[0m [?1l>[?2004l
-[J]2;tar -cvf example.tar file1.txt file2.doc file3.docx file4.png]1;tarfile1.txt
-file2.doc
-file3.docx
-file4.png
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -cvf example.tar file1.txt file2.doc file3.docx file4.png[39m[60D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mv[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [55D[90mxf arc.tar.xz file2.txt[39m[23D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[90mcvf example.tar file1.txt file2.doc file3.docx file4.png[39m[56D[39mx[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [55D[90mvf arch.tar -C another-dir[39m[26D[39mv[39mf[39m [39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[4me[24m[90mxample.tar --wildcards '*.doc'[39m[30D[4me[39m[4mx[39m[4ma[39m[4mm[39m[4mp[39m[4ml[39m[4me[39m[4m.[39m[4mt[39m[4ma[39m[4mr[24m[39m[1m [0m[1m [39m[1m-[0m[0m [0m-[39m-[39mw[39mi[39ml[39md[39mc[39ma[39mr[39md[39ms[39m [39m'[39m*[39m.[39md[39mo[39mc[39m'[33m'[33m*[33m.[33md[33mo[33mc[33m'[39m[?1l>[?2004l
-]2;tar -xvf example.tar --wildcards '*.doc']1;tarfile2.doc
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -xvf example.tar --wildcards '*.doc'[39m[39D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39m-[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[90mdelete -f example.tar --wildcards '*.txt'[39m[41D[39md
-[0m--delay-directory-restore  -- delay setting modification times and
---delete                   -- delete from the archive (not on mag tapes!)
---dereference              -- follow symlinks; archive and dump the files th
---diff                     -- find differences between archive and file syst
-[J--directory                -- change to directory DIR[J[5A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m --d[90melete -f example.tar --wildcards '*.txt'[39m[K[24C[0m[49m[39m[0m[39m[49m[64D[39me[39ml[39me[39mt[39me[39m [39m-[39mf[39m [39me[39mx[39ma[39mm[39mp[39ml[39me[39m.[39mt[39ma[39mr[39m [39m-[39m-[39mw[39mi[39ml[39md[39mc[39ma[39mr[39md[39ms[39m [39m'[39m*[39m.[39mt[39mx[39mt[39m'[31D[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mt[4ma[4mr[24m[13C[33m'[33m*[33m.[33mt[33mx[33mt[33m'[39m[?1l>[?2004l
-[J]2;tar --delete -f example.tar --wildcards '*.txt']1;tar[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar --delete -f example.tar --wildcards '*.txt'[39m[46D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mt[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [41D[90mvf arch.tar[39m[11D[39mv[39mf[39m [39ma[39mr[39mc[39mh[39m.[39mt[39ma[39mr[8D[4ma[4mr[4mc[4mh[4m.[4mt[4ma[4mr[24m[4m.[4mt[4ma[4mr[24m[24m [24ma[24mr[24mc[24m.[24mt[24ma[24mr[4C[90m.xz[39m.tar [39m [39m [39m [8D.tar .tar e.tara.tar.tar x.tara.tar[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.tar[24m[1m [0m[0m [?1l>[?2004l
-]2;tar -tvf example.tar]1;tar-rw-rw-r-- user/user         0 2025-03-08 13:24 file2.doc
--rw-rw-r-- user/user         0 2025-03-08 13:24 file3.docx
--rw-rw-r-- user/user         0 2025-03-08 13:24 file4.png
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[32ml[32ms[32m [39m[32ml[32ms[39m[39m [90manother-dir[39m[11D[39m~[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4m~[24m[90m > example1.txt[39m[15D[4m~[39m[4m [24m[4m~[24m[24m [39m>[33m>[39m[33m>[33m [39m[33m>[39m[39m [39me[39mx[39ma[39mm[39mp[39ml[39me[39m1[39m.[39mt[39mx[39mt[?1l>[?2004l
-]2;ls --color=tty ~ > example1.txt]1;ls[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms ~ > example1.txt[39m[18D[32ml[32ms[39m[32ml[32ms[32m [39m[32ml[32ms[39m[39m [39m/[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[4m/[24m[90metc > example2.txt[39m[18D[39me[39mt[39mc[39m [39m>[39m [39me[39mx[39ma[39mm[39mp[39ml[39me[39m2[39m.[39mt[39mx[39mt[19D[4m/[4me[4mt[4mc[24m [33m>[39m[13C[?1l>[?2004l
-]2;ls --color=tty /etc > example2.txt]1;ls[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -tvf example.tar[39m[19D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[90mvf example.tar file1.txt file2.doc file3.docx file4.png[39m[55D[39mz[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [54D[90mvf output.txt.gz example1.txt example2.txt[39m[42D[39mv[39mf[39m [39mo[39mu[39mt[39mp[39mu[39mt[39m.[39mt[39mx[39mt[39m.[39mg[39mz[39m [39me[39mx[39ma[39mm[39mp[39ml[39me[39m1[39m.[39mt[39mx[39mt[39m [39me[39mx[39ma[39mm[39mp[39ml[39me[39m2[39m.[39mt[39mx[39mt[25D[4me[4mx[4ma[4mm[4mp[4ml[4me[4m1[4m.[4mt[4mx[4mt[24m [4me[4mx[4ma[4mm[4mp[4ml[4me[4m2[4m.[4mt[4mx[4mt[24m[?1l>[?2004l
-]2;tar -czvf output.txt.gz example1.txt example2.txt]1;tarexample1.txt
-example2.txt
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hg[32mg[39m[32mg[39m[90mzip ubuntu.iso.tar[39m[18D[32mg[32mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[1m[31mg[1m[31mu[0m[39m[90mnzip -c output.txt.gz[39m[21D[1m[31mg[1m[31mu[1m[31mn[0m[39m[39mz[39mi[39mp[39m [39m-[39mc[39m [39mo[39mu[39mt[39mp[39mu[39mt[39m.[39mt[39mx[39mt[39m.[39mg[39mz[23D[0m[32mg[0m[32mu[0m[32mn[32mz[32mi[32mp[39m[4C[4mo[4mu[4mt[4mp[4mu[4mt[4m.[4mt[4mx[4mt[4m.[4mg[4mz[24m[?1l>[?2004l
-]2;gunzip -c output.txt.gz]1;gunzipexample1.txt                                                                                        0000664 0001750 0001750 00000000230 14763015545 012060  0                                                                                                    ustar   user                            user                                                                                                                                                                                                                   Desktop
-Documents
-Downloads
-lab5-tasks
-Music
-Pictures
-Public
-task1zadrutskiy
-task2zadrutskiy
-Templates
-timelog1zadrutskiy
-timelog2zadrutskiy
-tmp
-Videos
-                                                                                                                                                                                                                                                                                                                                                                        example2.txt                                                                                        0000664 0001750 0001750 00000004566 14763015550 012075  0                                                                                                    ustar   user                            user                                                                                                                                                                                                                   adduser.conf
-adjtime
-alsa
-alternatives
-anacrontab
-apg.conf
-apm
-apparmor
-apparmor.d
-apt
-avahi
-bash.bashrc
-bash_completion
-bash_completion.d
-bindresvport.blacklist
-binfmt.d
-bluetooth
-brlapi.key
-brltty
-brltty.conf
-ca-certificates
-ca-certificates.conf
-casper.conf
-catdocrc
-chatscripts
-cifs-utils
-colord
-console-setup
-cracklib
-credstore
-credstore.encrypted
-cron.d
-cron.daily
-cron.hourly
-cron.monthly
-crontab
-cron.weekly
-cron.yearly
-cryptsetup-initramfs
-cups
-cupshelpers
-dbus-1
-dconf
-debconf.conf
-debian_version
-debuginfod
-default
-deluser.conf
-depmod.d
-dhcp
-dhcpcd.conf
-dictionaries-common
-dkms
-dpkg
-e2scrub.conf
-emacs
-environment
-environment.d
-ethertypes
-fonts
-fprintd.conf
-fstab
-fuse.conf
-fwupd
-gai.conf
-gdb
-geoclue
-ghostscript
-glvnd
-gnome
-gnome-app-install
-gnutls
-gprofng.rc
-groff
-group
-group-
-grub.d
-gshadow
-gshadow-
-gss
-gtk-2.0
-gtk-3.0
-guest-session
-gufw
-hdparm.conf
-host.conf
-hostname
-hosts
-hosts.allow
-hosts.deny
-hp
-ifplugd
-ImageMagick-6
-init
-init.d
-initramfs-tools
-inputrc
-inxi.conf
-ipp-usb
-iproute2
-issue
-issue.net
-kernel
-kerneloops.conf
-keyutils
-ld.so.cache
-ld.so.conf
-ld.so.conf.d
-legal
-libao.conf
-libaudit.conf
-libblockdev
-libnl-3
-libpaper.d
-libreoffice
-lightdm
-linuxmint
-locale.alias
-locale.conf
-locale.gen
-localtime
-logcheck
-login.defs
-logrotate.conf
-logrotate.d
-lsb-release
-ltrace.conf
-lvm
-machine-id
-magic
-magic.mime
-mailcap
-mailcap.order
-manpath.config
-mdadm
-mime.types
-mke2fs.conf
-ModemManager
-modprobe.d
-modules
-modules-load.d
-motd
-mtab
-mtools.conf
-nanorc
-netconfig
-netplan
-network
-networkd-dispatcher
-NetworkManager
-networks
-newt
-nftables.conf
-nsswitch.conf
-openal
-openni2
-openvpn
-opt
-os-release
-PackageKit
-pam.conf
-pam.d
-papersize
-passwd
-passwd-
-pcmcia
-perl
-pki
-plymouth
-pm
-pnm2ppa.conf
-polkit-1
-ppp
-profile
-profile.d
-protocols
-pulse
-python3
-python3.12
-rc0.d
-rc1.d
-rc2.d
-rc3.d
-rc4.d
-rc5.d
-rc6.d
-rcS.d
-request-key.conf
-request-key.d
-resolv.conf
-rmt
-rpc
-rsyslog.conf
-rsyslog.d
-samba
-sane.d
-security
-selinux
-sensors3.conf
-sensors.d
-services
-sgml
-shadow
-shadow-
-shells
-skel
-snmp
-speech-dispatcher
-ssh
-ssl
-subgid
-subgid-
-subuid
-subuid-
-sudo.conf
-sudoers
-sudoers.d
-sudo_logsrvd.conf
-supercat
-sysctl.conf
-sysctl.d
-systemd
-terminfo
-thermald
-timeshift
-timezone
-timidity
-tmpfiles.d
-ucf.conf
-udev
-udisks2
-ufw
-updatedb.conf
-update-motd.d
-UPower
-upstream-release
-usb_modeswitch.conf
-usb_modeswitch.d
-vconsole.conf
-vdpau_wrapper.cfg
-vim
-vtrgb
-vulkan
-wgetrc
-wpa_supplicant
-X11
-xattr.conf
-xdg
-xml
-zsh
-zsh_command_not_found
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hz[1m[31mz[0m[39m[1m[31mz[0m[39m[90mcat output.txt.gz[39m[17D[1m[31mz[1m[31mc[0m[39m[1m[31mz[1m[31mc[1m[31ma[0m[39m[1m[31ma[1m[31mr[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[1m[31mr[1m[31m [0m[39m[1m[31mr[0m[39m[0m[39m [1m[31ma[0m[39m[0m[39m [90mt output.txt.gz[39m[15D[39mt[39m [39mo[39mu[39mt[39mp[39mu[39mt[39m.[39mt[39mx[39mt[39m.[39mg[39mz[18D[0m[32mz[0m[32mc[0m[32ma[32mt[39m [4mo[4mu[4mt[4mp[4mu[4mt[4m.[4mt[4mx[4mt[4m.[4mg[4mz[24m[?1l>[?2004l
-]2;zcat output.txt.gz]1;zcatexample1.txt                                                                                        0000664 0001750 0001750 00000000230 14763015545 012060  0                                                                                                    ustar   user                            user                                                                                                                                                                                                                   Desktop
-Documents
-Downloads
-lab5-tasks
-Music
-Pictures
-Public
-task1zadrutskiy
-task2zadrutskiy
-Templates
-timelog1zadrutskiy
-timelog2zadrutskiy
-tmp
-Videos
-                                                                                                                                                                                                                                                                                                                                                                        example2.txt                                                                                        0000664 0001750 0001750 00000004566 14763015550 012075  0                                                                                                    ustar   user                            user                                                                                                                                                                                                                   adduser.conf
-adjtime
-alsa
-alternatives
-anacrontab
-apg.conf
-apm
-apparmor
-apparmor.d
-apt
-avahi
-bash.bashrc
-bash_completion
-bash_completion.d
-bindresvport.blacklist
-binfmt.d
-bluetooth
-brlapi.key
-brltty
-brltty.conf
-ca-certificates
-ca-certificates.conf
-casper.conf
-catdocrc
-chatscripts
-cifs-utils
-colord
-console-setup
-cracklib
-credstore
-credstore.encrypted
-cron.d
-cron.daily
-cron.hourly
-cron.monthly
-crontab
-cron.weekly
-cron.yearly
-cryptsetup-initramfs
-cups
-cupshelpers
-dbus-1
-dconf
-debconf.conf
-debian_version
-debuginfod
-default
-deluser.conf
-depmod.d
-dhcp
-dhcpcd.conf
-dictionaries-common
-dkms
-dpkg
-e2scrub.conf
-emacs
-environment
-environment.d
-ethertypes
-fonts
-fprintd.conf
-fstab
-fuse.conf
-fwupd
-gai.conf
-gdb
-geoclue
-ghostscript
-glvnd
-gnome
-gnome-app-install
-gnutls
-gprofng.rc
-groff
-group
-group-
-grub.d
-gshadow
-gshadow-
-gss
-gtk-2.0
-gtk-3.0
-guest-session
-gufw
-hdparm.conf
-host.conf
-hostname
-hosts
-hosts.allow
-hosts.deny
-hp
-ifplugd
-ImageMagick-6
-init
-init.d
-initramfs-tools
-inputrc
-inxi.conf
-ipp-usb
-iproute2
-issue
-issue.net
-kernel
-kerneloops.conf
-keyutils
-ld.so.cache
-ld.so.conf
-ld.so.conf.d
-legal
-libao.conf
-libaudit.conf
-libblockdev
-libnl-3
-libpaper.d
-libreoffice
-lightdm
-linuxmint
-locale.alias
-locale.conf
-locale.gen
-localtime
-logcheck
-login.defs
-logrotate.conf
-logrotate.d
-lsb-release
-ltrace.conf
-lvm
-machine-id
-magic
-magic.mime
-mailcap
-mailcap.order
-manpath.config
-mdadm
-mime.types
-mke2fs.conf
-ModemManager
-modprobe.d
-modules
-modules-load.d
-motd
-mtab
-mtools.conf
-nanorc
-netconfig
-netplan
-network
-networkd-dispatcher
-NetworkManager
-networks
-newt
-nftables.conf
-nsswitch.conf
-openal
-openni2
-openvpn
-opt
-os-release
-PackageKit
-pam.conf
-pam.d
-papersize
-passwd
-passwd-
-pcmcia
-perl
-pki
-plymouth
-pm
-pnm2ppa.conf
-polkit-1
-ppp
-profile
-profile.d
-protocols
-pulse
-python3
-python3.12
-rc0.d
-rc1.d
-rc2.d
-rc3.d
-rc4.d
-rc5.d
-rc6.d
-rcS.d
-request-key.conf
-request-key.d
-resolv.conf
-rmt
-rpc
-rsyslog.conf
-rsyslog.d
-samba
-sane.d
-security
-selinux
-sensors3.conf
-sensors.d
-services
-sgml
-shadow
-shadow-
-shells
-skel
-snmp
-speech-dispatcher
-ssh
-ssl
-subgid
-subgid-
-subuid
-subuid-
-sudo.conf
-sudoers
-sudoers.d
-sudo_logsrvd.conf
-supercat
-sysctl.conf
-sysctl.d
-systemd
-terminfo
-thermald
-timeshift
-timezone
-timidity
-tmpfiles.d
-ucf.conf
-udev
-udisks2
-ufw
-updatedb.conf
-update-motd.d
-UPower
-upstream-release
-usb_modeswitch.conf
-usb_modeswitch.d
-vconsole.conf
-vdpau_wrapper.cfg
-vim
-vtrgb
-vulkan
-wgetrc
-wpa_supplicant
-X11
-xattr.conf
-xdg
-xml
-zsh
-zsh_command_not_found
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms /etc > example2.txt[39m[21D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[?1l>[?2004l
-]2;ls --color=tty]1;ls[0m[01;34manother-dir[0m  example1.txt  [01;31mexample.tar[0m  file2.doc  file3.docx  [01;35mfile4.png[0m
-[01;31march.tar[0m     example2.txt  file1.txt    file2.txt  file3.txt   [01;31moutput.txt.gz[0m
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hr[32mr[39m[32mr[39m[90mm -dr tmp[39m[9D[32mr[32mm[39m[32mr[32mm[32m [39m[32mr[32mm[39m[39m [39m*[39m [39m [39m [39m [39m [39m [34m*[39m[90m.txt[39m[34m*[34m.[39m[34m*[39m[39m.[39mt[39mx[39mt f[4mf[24m[4mf[4mi[24m[4mi[4ml[24m[4ml[4me[24m[4me[4m*[24m[24mf[24mi[24ml[24me[24m[34m*[39m[34m*[34m [39m[34m*[39m[39m *[34m*[39m[34m*[34m.[39m[34m*[39m[39m.tar *[34m*[39m[34m*[34m.[39m[34m*[39m[39m.gz[?1l>[?2004l
-]2;rm *.txt file* *.tar *.gz]1;rmrm: cannot remove 'file1.txt': No such file or directory
-rm: cannot remove 'file2.txt': No such file or directory
-rm: cannot remove 'file3.txt': No such file or directory
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l>[?2004l
-]2;ls --color=tty]1;ls[0m[01;34manother-dir[0m
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -czvf output.txt.gz example1.txt example2.txt[39m[48D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mc[39mv[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [42D[90mf example.tar file1.txt file2.doc file3.docx file4.png[39m[54D[39mf[39m [39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [51Da  [90mexample.tar file1.txt file2.doc file3.docx file4.png[39m[52D[39m.[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [51D[4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4md[24m[24m.[24m.[24m/[24mdD[4m.[4m.[4m/[4mD[24m[24m.[24m.[24m/[24mD
-[J[01;34mDesktop[0m/    [J[01;34mDocuments[0m/  [J[01;34mDownloads[0m/[J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf ../D[K[58C[0m[49m[39m[0m[39m[49m[58D[4m.[4m.[4m/[4mD[24m[4mD[4mesktop[1m[4m/[0m[24m
-[J[7mDesktop/  [0m  [J[01;34mDocuments[0m/  [J[01;34mDownloads[0m/[J[A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4m../Desktop[1m[4m/[0m[24m[K[51C[0m[49m[39m[0m[39m[49m[51D
-[7mDesktop/  [0m  [7mDesktop/  [0m  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4m../Desktop[1m[4m/[0m[24m[K[51C[0m[49m[39m[0m[39m[49m[51D[4mo[4mc[4mu[4mm[4me[4mn[0m[4mt[4ms[1m[4m/[0m[24m
-[12C[7mDocuments/[0m  [01;34mDesktop[0m/    [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4m../Documents[1m[4m/[0m[24m[K[49C[0m[49m[39m[0m[39m[49m[49D[8D[4mw[4mn[4ml[4mo[4ma[4md[2C[24m
-[24C[7mDownloads/[0m[12C[01;34mDocuments[0m/  [A[0m[27m[24m[0m[39m[49m[8C[32mtar[39m -cvf [4m../Downloads[1m[4m/[0m[24m[K[49C[0m[49m[39m[0m[39m[49m[49D
-[J[A[30C[22D[39mt[39ma[39mr[6C[24m.[24m.[24m/[24mD[24mo[24mw[24mn[24ml[24mo[24ma[24md[24ms[24m[1m/[0m[0m/m[23D[32mt[32ma[32mr[39m[20C [13D[4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[24m[4m/[4mlinuxmint-22.1-cinnamon-64bit.iso[24m[1m [0m[0m [1Czf[24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Df [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[24m [49Dzvf[24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[49D[1C[1C[1C[?1l>[?2004l
-[J]2;tar -czvf ../Downloads/linuxmint-22.1-cinnamon-64bit.iso]1;tartar: Cowardly refusing to create an empty archive
-Try 'tar --help' or 'tar --usage' for more information.
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004htar -czvf ../Downloads/linuxmint-22.1-cinnamon-64bit.iso[56D[32mt[32ma[32mr[39m[7C[4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[1C[24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[47D[2C[24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Dm [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Di [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Dn [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Dt [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48D. [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Dt [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Da [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48Dr [24m [4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[48D[1C[4m.[4m.[4m/[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[24m [48D[?1l>[?2004l
-]2;tar -czvf mint.tar ../Downloads/linuxmint-22.1-cinnamon-64bit.iso]1;tartar: Removing leading `../' from member names
-../Downloads/linuxmint-22.1-cinnamon-64bit.iso
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[65C[0m[49m[38;5;101m1m 16s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mcript -ttimelog2zadrutskiy task2zadrutskiy[39m[42D[1m[31ms[1m[31mp[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [41D[90mlit -b 500M ubuntu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[52D[1m[31ms[1m[31mp[1m[31ml[0m[39m[1m[31ml[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32ms[0m[32mp[0m[32ml[0m[32mi[0m[32mt[39m[32mt[32m [39m[32mt[39m[39m [39m-[39mb[39m [39m5[39m0[39m0[39mM[39m [39mu[39mb[39mu[39mn[39mt[39mu[39m.[39mi[39ms[39mo[39m.[39mt[39ma[39mr[39m.[39mx[39mz[39m [39mu[39mb[39mu[39mn[39mt[39mu[39m.[39mi[39ms[39mo[39m.[39mt[39ma[39mr[39m.[39mx[39mz[39m.[39mp[39ma[39mr[39mt[1C [90mt[39m [39m [90mrt[39m [39m [39m [90mart[39m [39m [39m [39m [90mpart[39m [39m [39m [39m [39m [90m.part[39m [39m [39m [39m [39m [39m [90mz.part[39m [39m [39m [39m [39m [39m [39m [90mxz.part[39m [39m [39m [39m [39m [39m [39m [39m [8D[90m.xz.part[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[90mr.xz.part[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mar.xz.part[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90mtar.xz.part[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90m.tar.xz.part[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90mo.tar.xz.part[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[90mso.tar.xz.part[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[90miso.tar.xz.part[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90m.iso.tar.xz.part[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[90mu.iso.tar.xz.part[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[90mtu.iso.tar.xz.part[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[90mntu.iso.tar.xz.part[39m[19D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[90muntu.iso.tar.xz.part[39m[20D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[90mbuntu.iso.tar.xz.part[39m[21D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[90mubuntu.iso.tar.xz.part[39m[22D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[90m ubuntu.iso.tar.xz.part[39m[23D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[90mz ubuntu.iso.tar.xz.part[39m[24D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[90mxz ubuntu.iso.tar.xz.part[39m[25D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90m.xz ubuntu.iso.tar.xz.part[39m[26D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[90mr.xz ubuntu.iso.tar.xz.part[39m[27D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[90mar.xz ubuntu.iso.tar.xz.part[39m[28D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[90mtar.xz ubuntu.iso.tar.xz.part[39m[29D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[90m.tar.xz ubuntu.iso.tar.xz.part[39m[30D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[90mo.tar.xz ubuntu.iso.tar.xz.part[39m[31D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[90mso.tar.xz ubuntu.iso.tar.xz.part[39m[32D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[90miso.tar.xz ubuntu.iso.tar.xz.part[39m[33D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[90m.iso.tar.xz ubuntu.iso.tar.xz.part[39m[34D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [35D[90mu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[35D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[90mtu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[36D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[90mntu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[37D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[90muntu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[38D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[90mbuntu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[39D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[90mubuntu.iso.tar.xz ubuntu.iso.tar.xz.part[39m[40D[39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[4mm[24m[4mm[4mint.tar[24m[1m [0m[1m [1mm[0m[0m [0m[4mm[24m[4mm[4mi[24m[4mi[4mn[24m[4mn[4mt[24m[4mt[4m.[24m[4m.[4mt[24m[4mt[4ma[24m[4ma[4mr[24m[4mr[4m.[24m[9D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.gz.p[36D[39ms[39mp[39ml[39mi[39mt[9C[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[14C[36D[32ms[32mp[32ml[32mi[32mt[39m[9C[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[24m[14Cat rt[?1l>[?2004l
-]2;split -b 500M mint.tar mint.tar.gz.part]1;split[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[69C[0m[49m[38;5;101m3s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l>[?2004l
-]2;ls --color=tty]1;ls[0m[01;34manother-dir[0m  mint.tar.gz.partaa  mint.tar.gz.partac  mint.tar.gz.partae
-[01;31mmint.tar[0m     mint.tar.gz.partab  mint.tar.gz.partad  mint.tar.gz.partaf
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90md tmp[39m[1m[31mc[1m[31ma[0m[39m[39m [39m [39m [39m [90mt labrabota4/task7copy.txt[39m[26D[1m[31mc[1m[31ma[1m[31mt[0m[39m[0m[32mc[0m[32ma[0m[32mt[39m[32mt[32m [39m[32mt[39m[39m [39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[4mm[24m[4mm[4mi[24m[24mm[24mint.tar[8D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[24m[8D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr
-[01;31mmint.tar[0m            mint.tar.gz.partab  mint.tar.gz.partad  mint.tar.gz.partaf
-[Jmint.tar.gz.partaa  [Jmint.tar.gz.partac  [Jmint.tar.gz.partae  [J                  [A[A[0m[27m[24m[0m[39m[49m[8C[32mcat[39m mint.tar[K[59C[0m[49m[39m[0m[39m[49m[59D[8D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[24m[4mr[4m.[24m[4m.[4mg[24m[4mg[4mz[24m[4mz[4m [24m[12D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.[24mg[24mz[24m [11D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[4m.[4mg[4mz[24m[4mz[4m.[24m[4m.[4mp[24m
-[J[A[25C[13D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.[24mg[24mz[24m.[24mparta[17D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[4m.[4mg[4mz[4m.[4mp[4ma[4mr[4mt[4ma[24m[17D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.[24mg[24mz[24m.[24mp[24ma[24mr[24mt[24ma
-[J[0mmint.tar.gz.partaa  mint.tar.gz.partac  mint.tar.gz.partae                    
-[Jmint.tar.gz.partab  [Jmint.tar.gz.partad  [Jmint.tar.gz.partaf  [J                  [A[A[0m[27m[24m[0m[39m[49m[8C[32mcat[39m mint.tar.gz.parta[K[50C[0m[49m[39m[0m[39m[49m[50D[17D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[4m.[4mg[4mz[4m.[4mp[4ma[4mr[4mt[4ma[24m[4ma[4m*[24m[18D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.[24mg[24mz[24m.[24mp[24ma[24mr[24mt[24ma[24m[34m*[39m[34m*[34m [39m[34m*[39m[39m >[33m>[39m[33m>[33m [39m[33m>[39m[39m m[4mm[24m[4mm[4mi[24m[4mi[4mn[24m[4mn[4mt[24m[4mt[4m.[24m[4m.[4mi[24m[24mm[24mi[24mn[24mt[24m.[24miso   [4mm[4mi[4mn[4mt[4m.[24m[4mt[24m[24m [4mt[4m.[24m[4m.[4mt[24m[4mt[4ma[24m[4ma[4mr[24m[4mr[4m.[24m[4m.[4mg[24m[4mg[4mz[24m[?1l>[?2004l[11D[24mm[24mi[24mn[24mt[24m.[24mt[24ma[24mr[24m.[24mg[24mz
-[J]2;cat mint.tar.gz.parta* > mint.tar.gz]1;cat[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[69C[0m[49m[38;5;101m4s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hg[32mg[39m[32mg[39m[90munzip -c output.txt.gz[39m[22D[32mg[32mu[39m[1m[31mg[1m[31mu[0m[39m[1m[31mg[1m[31mu[1m[31mn[0m[39m[1m[31mn[1m[31mz[0m[39m[1m[31mz[1m[31mi[0m[39m[1m[31mi[1m[31mp[0m[39m[0m[32mg[0m[32mu[0m[32mn[0m[32mz[0m[32mi[0m[32mp[39m[32mp[32m [39m[32mp[39m[39m [39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[4mm[24m[4mm[4mint.tar.gz[24m[1m [0m[0m [?1l>[?2004l
-]2;gunzip mint.tar.gz]1;gunzipgzip: mint.tar already exists; do you wish to overwrite (y or n)? y
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[68C[0m[49m[38;5;101m28s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -czvf mint.tar ../Downloads/linuxmint-22.1-cinnamon-64bit.iso[39m[64D[1m[31mt[1m[31ma[0m[39m[1m[31mt[1m[31ma[1m[31mr[0m[39m[0m[32mt[0m[32ma[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39mx[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [59D[90mvf example.tar --wildcards '*.doc'[39m[34D[39mv[39mf[39m [39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[4mm[24m[4mm[4mint.tar[24m[1m [0m[0m Downloads[1m/[0m[0m          [?1l>[?2004l
-]2;tar -xvf mint.tar]1;tarDownloads/linuxmint-22.1-cinnamon-64bit.iso
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[69C[0m[49m[38;5;101m5s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[?1l>[?2004l
-]2;ls --color=tty]1;ls[0m[01;34manother-dir[0m  mint.tar.gz.partaa  mint.tar.gz.partad
-[01;34mDownloads[0m    mint.tar.gz.partab  mint.tar.gz.partae
-[01;31mmint.tar[0m     mint.tar.gz.partac  mint.tar.gz.partaf
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hr[32mr[39m[32mr[39m[90mm *.txt file* *.tar *.gz[39m[24D[32mr[32mm[39m[32mr[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[32mr[39m[90mm *.txt file* *.tar *.gz[39m[24D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25Dc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[1m[31mc[1m[31md[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[0m[32mc[0m[32md[39m[90m tmp[39m[32mc[39m[39m [39m [39m [39m [39m [1m[31mc[0m[39m[1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36Dl[32ml[39m[32ml[39m[90ms[39m[32ml[32ms[39m[32ml[32ms[32m [39m[32ml[32ms[39m[39m [90m/etc > example2.txt[39m[19D[39mD[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[4mD[24m[4mD[4mo[24m[4mo[4mwnloads[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
-]2;ls --color=tty Downloads]1;lslinuxmint-22.1-cinnamon-64bit.iso
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[1m[31mc[1m[31md[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[0m[32mc[0m[32md[39m[90m tmp[39m[32mc[39m[39m [39m [39m [39m [39m [1m[31mc[0m[39m[1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36Dr[32mr[39m[32mr[39m[90mm *.txt file* *.tar *.gz[39m[24D[32mr[32mm[39m[32mr[32mm[32m [39m[32mr[32mm[39m[39m [39m*[34m*[39m[34m*[34mm[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[34m*[39m[39mmi[39mr[39mm [39m*[2C[32mr[32mm[39m [34m*[39m[2C  [90m.txt file* *.tar *.gz[39m[21D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[90m*.txt file* *.tar *.gz[39m[22D[39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[4mm[24m[4mm[4mi[24m[24mm[24mint.tar[8D[4mm[4mi[4mn[4mt[4m.[4mt[4ma[4mr[24m[4ma[24m[24m [4mt[24m[24m [4m.[24m[24m [4mt[24m[24m [4mt[4m*[24m[24mm[24mi[24mn[24mt[24m[34m*[39m[?1l>[?2004l
-]2;rm mint*]1;rm[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004h7[32m7[39m[32m7[32mz[39m[?1l>[?2004l
-]2;7z]1;7z
-7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
- 64-bit locale=en_US.UTF-8 Threads:8 OPEN_MAX:1024
-
-Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...] [@listfile]
-
-<Commands>
-  a : Add files to archive
-  b : Benchmark
-  d : Delete files from archive
-  e : Extract files from archive (without using directory names)
-  h : Calculate hash values for files
-  i : Show information about supported formats
-  l : List contents of archive
-  rn : Rename files in archive
-  t : Test integrity of archive
-  u : Update files to archive
-  x : eXtract files with full paths
-
-<Switches>
-  -- : Stop switches and @listfile parsing
-  -ai[r[-|0]]{@listfile|!wildcard} : Include archives
-  -ax[r[-|0]]{@listfile|!wildcard} : eXclude archives
-  -ao{a|s|t|u} : set Overwrite mode
-  -an : disable archive_name field
-  -bb[0-3] : set output log level
-  -bd : disable progress indicator
-  -bs{o|e|p}{0|1|2} : set output stream for output/error/progress line
-  -bt : show execution time statistics
-  -i[r[-|0]]{@listfile|!wildcard} : Include filenames
-  -m{Parameters} : set compression Method
-    -mmt[N] : set number of CPU threads
-    -mx[N] : set compression level: -mx1 (fastest) ... -mx9 (ultra)
-  -o{Directory} : set Output directory
-  -p{Password} : set Password
-  -r[-|0] : Recurse subdirectories for name search
-  -sa{a|e|s} : set Archive name mode
-  -scc{UTF-8|WIN|DOS} : set charset for console input/output
-  -scs{UTF-8|UTF-16LE|UTF-16BE|WIN|DOS|{id}} : set charset for list files
-  -scrc[CRC32|CRC64|SHA1|SHA256|*] : set hash function for x, e, h commands
-  -sdel : delete files after compression
-  -seml[.] : send archive by email
-  -sfx[{name}] : Create SFX archive
-  -si[{name}] : read data from stdin
-  -slp : set Large Pages mode
-  -slt : show technical information for l (List) command
-  -snh : store hard links as links
-  -snl : store symbolic links as links
-  -sni : store NT security information
-  -sns[-] : store NTFS alternate streams
-  -so : write data to stdout
-  -spd : disable wildcard matching for file names
-  -spe : eliminate duplication of root folder for extract command
-  -spf[2] : use fully qualified file paths
-  -ssc[-] : set sensitive case mode
-  -sse : stop archive creating, if it can't open some input file
-  -ssp : do not change Last Access Time of source files while archiving
-  -ssw : compress shared files
-  -stl : set archive timestamp from the most recently modified file
-  -stm{HexMask} : set CPU thread affinity mask (hexadecimal number)
-  -stx{Type} : exclude archive type
-  -t{Type} : Set type of archive
-  -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName] : Update options
-  -v{Size}[b|k|m|g] : Create volumes
-  -w[{path}] : assign Work directory. Empty path means a temporary directory
-  -x[r[-|0]]{@listfile|!wildcard} : eXclude filenames
-  -y : assume Yes on all queries
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004h7[32m7[39m[32m7[39m[90mz[39m[32m7[32mz[39m[32m7[32mz[32m [39m[32m7[32mz[39m[39m a[4ma[24m[24m [32m7[39m[39m [32m7[39m[90mz[39m[39m [39m m[1m[31mm[0m[39m[1m[31mm[0m[39m[90mkdir -p tmp/another-dir[39m[23D[1m[31mm[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[90mn tar[39m[1m[31mm[1m[31ma[1m[31mn[0m[39m[0m[32mm[0m[32ma[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39m7[39m [39m z[?1l>[?2004l
-]2;man 7z]1;man[?1049h[22;0;0t[?1h=[4m7z[24m(1)                       General Commands Manual                      [4m7z[24m(1)[m
-[m
-[1mNAME[0m[m
-       7z - 7-Zip file archiver with a high compression ratio[m
-[m
-[1mSYNOPSIS[0m[m
-       [1m7z [4m[22mcommand[24m [[4mswitches[24m...] [4marchive_name[24m [[4mfile_names[24m] [@[4mlistfile[24m][m
-[m
-       [1m7zz [4m[22mcommand[24m [[4mswitches[24m...] [4marchive_name[24m [[4mfile_names[24m] [@[4mlistfile[24m][m
-[m
-       [1m7za [4m[22mcommand[24m [[4mswitches[24m...] [4marchive_name[24m [[4mfile_names[24m] [@[4mlistfile[24m][m
-[m
-       [1m7zr [4m[22mcommand[24m [[4mswitches[24m...] [4marchive_name[24m [[4mfile_names[24m] [@[4mlistfile[24m][m
-[m
-[1mDESCRIPTION[0m[m
-       7-Zip file archiver with a high compression ratio[m
-       There are some variants for 7z executable.[m
-[m
-       7z     Full featured with plugin support[m
-[m
-       7zz    Full featured single binary executable with no plugins support[m
-[m
-       7za    Supports  major formats only, no plugins, but smaller executable[m
-[7m Manual page 7z(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              size[m
-[7m Manual page 7z(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page 7z(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       7zr    Only supports LZMA codec and related formats (7z, lzma, xz),  no[m
-[7m Manual page 7z(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              plugins, but smallest executable size[m
-[7m Manual page 7z(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page 7z(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mOPTIONS[0m[m
-[7m Manual page 7z(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mCommands[0m[m
-[7m Manual page 7z(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       a      Add files to archive[m
-[7m Manual page 7z(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page 7z(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       b      Benchmark[m
-[7m Manual page 7z(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page 7z(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       d      Delete files from archive[m
-[7m Manual page 7z(1) line 13 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[68C[0m[49m[38;5;101m10s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004h7[32m7[39m[32m7[39m[90mz[39m[32m7[32mz[39m[32m7[32mz[32m [39m[32m7[32mz[39m[39m a[4ma[24m[4ma[4m [24m[24ma[24m -v500m D[4mD[24m[4mD[4mownloads[1m[4m/[0m[24m[0m[4m/[4mlinuxmint-22.1-cinnamon-64bit.iso[24m[1m [0m[4mo[0m[4m [24m[4mo[24m[24m mint    [1C[1C[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44Dm[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44Di[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44Dn[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44Dt[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44D[1C[24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[44D. [24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[45D7 [24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[45Dz [24m [4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[45D[1C[4mD[4mo[4mw[4mn[4ml[4mo[4ma[4md[4ms[4m/[4ml[4mi[4mn[4mu[4mx[4mm[4mi[4mn[4mt[4m-[4m2[4m2[4m.[4m1[4m-[4mc[4mi[4mn[4mn[4ma[4mm[4mo[4mn[4m-[4m6[4m4[4mb[4mi[4mt[4m.[4mi[4ms[4mo[24m[24m [45D[?1l>[?2004l
-]2;7z a -v500m mint.7z Downloads/linuxmint-22.1-cinnamon-64bit.iso]1;7z
-7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
- 64-bit locale=en_US.UTF-8 Threads:8 OPEN_MAX:1024
-
-Scanning the drive:
-  0M Scan           1 file, 2980511744 bytes (2843 MiB)
-
-Creating archive: mint.7z
-
-Add new data to archive: 1 file, 2980511744 bytes (2843 MiB)
-
-  0%      0% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    1% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    2% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    3% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    4% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    5% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    6% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    7% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    8% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    9% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   10% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   11% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   12% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   13% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   14% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   15% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   16% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   17% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   18% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   19% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   20% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   21% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   22% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   23% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   24% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   25% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   26% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   27% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   28% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   29% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   30% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   31% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   32% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   33% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   34% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   35% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   36% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   37% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   38% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   39% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   40% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   41% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   42% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   43% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   44% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   45% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   46% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   47% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   48% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   49% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   50% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   51% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   52% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   53% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   54% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   55% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   56% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   57% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   58% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   59% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   60% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   61% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   62% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   63% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   64% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   65% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   66% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   67% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   68% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   69% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   70% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   71% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   72% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   73% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   74% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   75% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   76% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   77% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   78% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   79% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   80% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   81% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   82% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   83% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   84% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   85% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   86% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   87% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   88% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   89% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   90% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   91% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   92% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   93% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   94% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   95% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   96% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   97% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   98% + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                   98% 1 + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                     99% 1 + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    100% 1 + Downloads/linuxmint-22.1-cinnamon-64bit.iso                                                    
-Files read from disk: 1
-Archive size: 2932283497 bytes (2797 MiB)
-Volumes: 6
-Everything is Ok
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[65C[0m[49m[38;5;101m2m 34s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004ht[1m[31mt[0m[39m[1m[31mt[0m[39m[90mar -xvf mint.tar[39m[16D[1m[31mt[1m[31mo[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[90much file1.txt file2.doc file3.docx file4.png[39m[44D[1m[31mt[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mc[0m[39m[1m[31mc[1m[31mh[0m[39m[0m[32mt[0m[32mo[0m[32mu[0m[32mc[0m[32mh[39m[32mh[32m [39m[32mh[39m[39m [39mf[39mi[39ml[39me[39m1[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34Dfile2[?1l>[?2004l
-]2;touch file1 file2]1;touch[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mplit -b 500M mint.tar mint.tar.gz.part[39m[38D[1m[31ms[1m[31mh[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[0m[32ms[0m[32mh[39m[32ms[32mh[32ma[39m[1m[31ms[1m[31mh[1m[31ma[0m[39m[1m[31ma[1m[31mr[0m[39m[1m[31mr[1m[31m [0m[39m[1m[31mr[0m[39m[0m[39m f[4mf[24m[4mf[4mi[24m[24mf[24mile[4mf[4mi[4ml[4me[24m[4me[4m1[24m[4m1[4m [24m[4m1[24m[24m f[4mf[24m[4mf[4mi[24m[24mf[24mile[4mf[4mi[4ml[4me[24m[4me[4m2[24m[4m2[4m [24m[4m2[24m[24m >[33m>[39m[33m>[33ma[39m[33m>[39m[39m[4ma[24m[4ma[4mr[24m[24ma[24mrc.sh[1C[33m>[33m [39marc.sh[33m>[39m[39m [?1l>[?2004l
-]2;shar file1 file2 > arc.sh]1;sharzsh: command not found: shar
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mhar file1 file2 > arc.sh[39m[24D[1m[31ms[1m[31mu[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[0m[32ms[0m[32mu[39m[90mdo su student1[39m[14D[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ma[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4ma[24m[90mpt search elfviewer[39m[19D[4ma[39m[4mp[24m[24m[1m[31ma[24m[1m[31mp[0m[39m[1m[31mp[1m[31mt[0m[39m[0m[32ma[0m[32mp[0m[32mt[39m[32mt[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[1m[31ma[1m[31mp[1m[31mt[1m[31ms[0m[39m[1m[31mt[0m[39m[0m[39m [0m[32ma[0m[32mp[0m[32mt[39m[90m search elfviewer[39m[17D[32mt[32m [39m[32mt[39m[39m [39ms[39me[39ma[39mr[39mc[39mh[39m [39me[39ml[39mf[39mv[39mi[39me[39mw[39me[39mr [90mr[39m [39m [90mer[39m [39m [39m [90mwer[39m [39m [39m [39m [90mewer[39m [39m [39m [39m [39m [90miewer[39m [39m [39m [39m [39m [39m [90mviewer[39m [39m [39m [39m [39m [39m [39m [90mfviewer[39m [39m [39m [39m [39m [39m [39m [39m [8D[90mlfviewer[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[90melfviewer[39m[9D[39ms[39m [39m [39m [39m [39m [39m [39m [39m [8Dha[19D[24m[39ms[24m[39mu[24m[39md[24m[39mo [39ma[39mp[39mt[11C[19D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32ma[32mp[32mt[39m[11Cr[?1l>[?2004l
-]2;sudo apt search shar]1;apt[sudo] password for user: ********        
-p   c-munipack-[31mshar[39me                - reduction of images carried out by CCD cam
-v   c-[31mshar[39mp-2.0-compiler            -                                           
-v   c-[31mshar[39mp-3.0-compiler            -                                           
-v   c-[31mshar[39mp-4.0-compiler            -                                           
-v   c-[31mshar[39mp-4.5-compiler            -                                           
-v   c-[31mshar[39mp-compiler                -                                           
-p   cairo-dock-dnd2[31mshar[39me-plug-in    - Dnd2[31mshar[39me plug-in for Cairo-dock          
-p   caja-[31mshar[39me                      - Allows one to quickly [31mshar[39me a folder from 
-p   doom-wad-[31mshar[39meware              - Shareware game files for the 3D game Doom 
-p   fonts-ak[31mshar[39myogini2             - ak[31mshar[39myogini2 devanagari normal style font
-p   f[31mshar[39mp                          - functional-first programming language - co
-p   gftl-[31mshar[39med-dev                 - Common gFTL containers of Fortran intrinsi
-p   gnome-user-[31mshar[39me                - User level public file [31mshar[39ming via WebDAV 
-p   gnss-[31mshar[39me                      - Share GNSS location data                  
-p   golang-github-jo[31mshar[39mian-intern- - Intern string golang library              
-p   golang-github-jo[31mshar[39mian-native- - Easy to use native encoding/binary.ByteOrd
-p   gtk-[31mshar[39mp3                      - GTK# 3.0 suite, CLI bindings for GTK+     
-p   gtk-[31mshar[39mp3-examples             - sample applications for the GTK# 3.0 toolk
-p   gtk-[31mshar[39mp3-gapi                 - C source parser and C# code generator for 
-p   kdenetwork-file[31mshar[39ming          - network file[31mshar[39ming configuration module  
-p   kernel[31mshar[39mk                     - Utilities for graphically analyzing functi
-v   libauthority-[31mshar[39med-perl        -                                           
-p   libcarp-clan-[31mshar[39me-perl         - Perl module enabling [31mshar[39ming of Carp::Clan
-v   libdmap[31mshar[39ming-4.0-3            -                                           
-i   libdmap[31mshar[39ming-4.0-3t64         - DMAP client and server library - runtime  
-p   libdmap[31mshar[39ming-4.0-dev          - DMAP client and server library - developme
-p   libfile-[31mshar[39me-perl              - replacement for File::ShareDir to deal wit
-p   libfile-[31mshar[39medir-install-perl   - module for installing read-only data files
-p   libfile-[31mshar[39medir-par-perl       - module for handling [31mshar[39med data in PAR arc
-p   libfile-[31mshar[39medir-perl           - module to locate non-code files during run
-p   libfile-[31mshar[39medir-projectdistdir - simple set-and-forget use of a [31mshar[39me direc
-p   libf[31mshar[39mp-core4.3-cil           - functional-first programming language - co
-p   libf[31mshar[39mp-data-typeproviders4.4 - functional-first programming language - da
-p   libgf[31mshar[39me-bin                  - utilities for multi-way secret-[31mshar[39ming    
-p   libgf[31mshar[39me-dev                  - library for multi-way secret-[31mshar[39ming (head
-p   libgf[31mshar[39me2                     - library for multi-way secret-[31mshar[39ming      
-p   libghc-secret-[31mshar[39ming-dev       - (m, n)-threshold secret [31mshar[39ming scheme    
-v   libghc-secret-[31mshar[39ming-dev-1.0.1 -                                           
-p   libghc-secret-[31mshar[39ming-doc       - (m, n)-threshold secret [31mshar[39ming scheme; do
-p   libghc-secret-[31mshar[39ming-prof      - (m, n)-threshold secret [31mshar[39ming scheme; pr
-v   libghc-secret-[31mshar[39ming-prof-1.0. -                                           
-p   libghc-tag[31mshar[39me-dev             - explicit [31mshar[39ming with tags                
-v   libghc-tag[31mshar[39me-dev-0.0-23674   -                                           
-p   libghc-tag[31mshar[39me-doc             - explicit [31mshar[39ming with tags; documentation 
-p   libghc-tag[31mshar[39me-prof            - explicit [31mshar[39ming with tags; profiling libr
-v   libghc-tag[31mshar[39me-prof-0.0-23674  -                                           
-p   libhash-[31mshar[39medmem-perl          - efficient [31mshar[39med mutable hash             
-p   libipc-[31mshar[39meable-perl           - module to access IPC [31mshar[39med memory segment
-p   libipc-[31mshar[39medcache-perl         - module to manage a cache in SysV IPC [31mshar[39me
-p   libipc-[31mshar[39melite-perl           - Perl module that provides a simple interfa
-p   libk[31mshar[39mk-dev                   - Library for accessing ftrace file system (
-p   libk[31mshar[39mk2                      - Library for accessing ftrace file system (
-p   libmaven-[31mshar[39med-incremental-jav - Maven incremental build utilities         
-p   libmaven-[31mshar[39med-incremental-jav - Maven incremental build utilities (documen
-p   libmaven-[31mshar[39med-io-java         - Maven API for I/O support                 
-p   libmaven-[31mshar[39med-jar-java        - Maven JAR Utilities                       
-p   libmaven-[31mshar[39med-jar-java-doc    - Documentation for Maven JAR Utilities     
-p   libmaven-[31mshar[39med-utils-java      - Replacement for plexus-utils in Maven     
-p   libmaven-[31mshar[39med-utils-java-doc  - Replacement for plexus-utils in Maven (doc
-p   libmono-c[31mshar[39mp4.0c-cil          - Mono.CSharp library (for CLI 4.0)         
-p   libmono-microsoft-c[31mshar[39mp4.0-cil - Mono Microsoft.CSharp library (for CLI 4.0
-p   libmono-[31mshar[39mpzip4.84-cil        - Mono SharpZipLib library (for CLI 4.0)    
-p   libndpi-wire[31mshar[39mk               - extensible deep packet inspection library 
-p   libphobos2-ldc-[31mshar[39med-dev       - LLVM D Compiler - Standard and runtime lib
-p   libphobos2-ldc-[31mshar[39med106        - LLVM D Compiler - Standard and runtime lib
-p   libprometheus-tiny-[31mshar[39med-perl  - tiny Prometheus client with a [31mshar[39med datab
-p   libqt6labs[31mshar[39medimage6          - Qt 6 Labs Shared Image library            
-v   librust-argh-[31mshar[39med+default-dev -                                           
-v   librust-argh-[31mshar[39med-0+default-d -                                           
-v   librust-argh-[31mshar[39med-0-dev       -                                           
-v   librust-argh-[31mshar[39med-0.1+default -                                           
-v   librust-argh-[31mshar[39med-0.1-dev     -                                           
-v   librust-argh-[31mshar[39med-0.1.9+defau -                                           
-v   librust-argh-[31mshar[39med-0.1.9-dev   -                                           
-p   librust-argh-[31mshar[39med-dev         - Derive-based argument parsing optimized fo
-v   librust-cranelift-codegen-[31mshar[39me -                                           
-v   librust-cranelift-codegen-[31mshar[39me -                                           
-v   librust-cranelift-codegen-[31mshar[39me -                                           
-v   librust-eww-[31mshar[39med-util+default -                                           
-v   librust-eww-[31mshar[39med-util-0+defau -                                           
-v   librust-eww-[31mshar[39med-util-0-dev   -                                           
-v   librust-eww-[31mshar[39med-util-0.1+def -                                           
-v   librust-eww-[31mshar[39med-util-0.1-dev -                                           
-v   librust-eww-[31mshar[39med-util-0.1.0+d -                                           
-v   librust-eww-[31mshar[39med-util-0.1.0-d -                                           
-p   librust-eww-[31mshar[39med-util-dev     - Utility crate used in eww - Rust source co
-v   librust-foreign-types-[31mshar[39med+de -                                           
-v   librust-foreign-types-[31mshar[39med-0+ -                                           
-v   librust-foreign-types-[31mshar[39med-0- -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-p   librust-foreign-types-[31mshar[39med-0. - Internal crate used by foreign-types - Rus
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-v   librust-foreign-types-[31mshar[39med-0. -                                           
-p   librust-foreign-types-[31mshar[39med-de - Internal crate used by foreign-types - Rus
-v   librust-hidapi+linux-[31mshar[39med-hid -                                           
-v   librust-hidapi-2+linux-[31mshar[39med-h -                                           
-v   librust-hidapi-2.4+linux-[31mshar[39med -                                           
-v   librust-hidapi-2.4.1+linux-[31mshar[39m -                                           
-v   librust-phf-[31mshar[39med+default-dev  -                                           
-v   librust-phf-[31mshar[39med+std-dev      -                                           
-p   librust-phf-[31mshar[39med+uncased-dev  - Support code [31mshar[39med by PHF libraries - fea
-p   librust-phf-[31mshar[39med+unicase-dev  - Support code [31mshar[39med by PHF libraries - fea
-v   librust-phf-[31mshar[39med-0+default-de -                                           
-v   librust-phf-[31mshar[39med-0+std-dev    -                                           
-v   librust-phf-[31mshar[39med-0+uncased-de -                                           
-v   librust-phf-[31mshar[39med-0+unicase-de -                                           
-v   librust-phf-[31mshar[39med-0-dev        -                                           
-v   librust-phf-[31mshar[39med-0.11+default -                                           
-v   librust-phf-[31mshar[39med-0.11+std-dev -                                           
-v   librust-phf-[31mshar[39med-0.11+uncased -                                           
-v   librust-phf-[31mshar[39med-0.11+unicase -                                           
-v   librust-phf-[31mshar[39med-0.11-dev     -                                           
-v   librust-phf-[31mshar[39med-0.11.2+defau -                                           
-v   librust-phf-[31mshar[39med-0.11.2+std-d -                                           
-v   librust-phf-[31mshar[39med-0.11.2+uncas -                                           
-v   librust-phf-[31mshar[39med-0.11.2+unica -                                           
-v   librust-phf-[31mshar[39med-0.11.2-dev   -                                           
-p   librust-phf-[31mshar[39med-dev          - Support code [31mshar[39med by PHF libraries - Rus
-v   librust-[31mshar[39mded-slab+default-de -                                           
-v   librust-[31mshar[39mded-slab-0+default- -                                           
-v   librust-[31mshar[39mded-slab-0-dev      -                                           
-v   librust-[31mshar[39mded-slab-0.1+defaul -                                           
-v   librust-[31mshar[39mded-slab-0.1-dev    -                                           
-v   librust-[31mshar[39mded-slab-0.1.4+defa -                                           
-v   librust-[31mshar[39mded-slab-0.1.4-dev  -                                           
-p   librust-[31mshar[39mded-slab-dev        - Lock-free concurrent slab - Rust source co
-v   librust-[31mshar[39med-child+default-de -                                           
-v   librust-[31mshar[39med-child-1+default- -                                           
-v   librust-[31mshar[39med-child-1-dev      -                                           
-v   librust-[31mshar[39med-child-1.0+defaul -                                           
-v   librust-[31mshar[39med-child-1.0-dev    -                                           
-v   librust-[31mshar[39med-child-1.0.0+defa -                                           
-v   librust-[31mshar[39med-child-1.0.0-dev  -                                           
-p   librust-[31mshar[39med-child-dev        - Using child processes from multiple thread
-v   librust-[31mshar[39med-library+default- -                                           
-v   librust-[31mshar[39med-library-0+defaul -                                           
-v   librust-[31mshar[39med-library-0-dev    -                                           
-v   librust-[31mshar[39med-library-0.1+defa -                                           
-v   librust-[31mshar[39med-library-0.1-dev  -                                           
-v   librust-[31mshar[39med-library-0.1.9+de -                                           
-v   librust-[31mshar[39med-library-0.1.9-de -                                           
-p   librust-[31mshar[39med-library-dev      - Easily bind to and load [31mshar[39med libraries -
-v   librust-string-cache-[31mshar[39med+def -                                           
-v   librust-string-cache-[31mshar[39med-0+d -                                           
-v   librust-string-cache-[31mshar[39med-0-d -                                           
-v   librust-string-cache-[31mshar[39med-0.3 -                                           
-v   librust-string-cache-[31mshar[39med-0.3 -                                           
-v   librust-string-cache-[31mshar[39med-0.3 -                                           
-v   librust-string-cache-[31mshar[39med-0.3 -                                           
-p   librust-string-cache-[31mshar[39med-dev - Code [31mshar[39me between string_cache and string
-v   librust-tracing-subscriber+[31mshar[39m -                                           
-v   librust-tracing-subscriber-0+sh -                                           
-v   librust-tracing-subscriber-0.3+ -                                           
-v   librust-tracing-subscriber-0.3. -                                           
-v   librust-wasm-bindgen-[31mshar[39med+def -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0+d -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0-d -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0.2 -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0.2 -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0.2 -                                           
-v   librust-wasm-bindgen-[31mshar[39med-0.2 -                                           
-p   librust-wasm-bindgen-[31mshar[39med-dev - Shared support of wasm-bindgen and wasm-bi
-v   librust-winapi+lm[31mshar[39me-dev      -                                           
-v   librust-winapi-0+lm[31mshar[39me-dev    -                                           
-v   librust-winapi-0.3+lm[31mshar[39me-dev  -                                           
-v   librust-winapi-0.3.9+lm[31mshar[39me-de -                                           
-p   lib[31mshar[39mp-dev                    - fast spherical harmonic transforms - C/C++
-p   lib[31mshar[39mp0                       - fast spherical harmonic transforms - C/C++
-p   lib[31mshar[39mpyuv-dev                 - Library for [31mshar[39mp RGB to YUV conversion (d
-p   lib[31mshar[39mpyuv-dev:i386            - Library for [31mshar[39mp RGB to YUV conversion (d
-i   lib[31mshar[39mpyuv0                    - Library for [31mshar[39mp RGB to YUV conversion   
-p   lib[31mshar[39mpyuv0:i386               - Library for [31mshar[39mp RGB to YUV conversion   
-p   lib[31mshar[39myanto-file-util-perl     - SHARYANTO's module of file related utiliti
-p   lib[31mshar[39myanto-string-util-perl   - SHARYANTO's module for string processing u
-p   lib[31mshar[39myanto-utils-perl         - SHARYANTO's temporary modules for various 
-v   libsoplex[31mshar[39med6.0              -                                           
-p   libsoplex[31mshar[39med6.0t64           - sequential object-oriented simplex solver 
-p   libspirv-cross-c-[31mshar[39med-dev     - Convert SPIR-V to other shader languages (
-p   libspirv-cross-c-[31mshar[39med0        - Convert SPIR-V to other shader languages (
-i   libsystemd-[31mshar[39med               - systemd [31mshar[39med private library            
-p   libsystemd-[31mshar[39med:i386          - systemd [31mshar[39med private library            
-p   libtest-file-[31mshar[39medir-perl      - Perl module to create fake ShareDirs      
-p   libtest-[31mshar[39medfork-perl         - module to run tests in multiple processes 
-p   libtest-[31mshar[39medobject-perl       - Data [31mshar[39ming in multi processes           
-v   libthreads-[31mshar[39med-perl          -                                           
-v   libthreads-[31mshar[39med-perl:i386     -                                           
-v   libthreads-[31mshar[39med-perl:any      -                                           
-p   libtrilinos-[31mshar[39mds-13.2         - interoperability tools for PDE solving - r
-p   libtrilinos-[31mshar[39mds-dev          - interoperability tools for PDE solving - d
-p   libvirt-wire[31mshar[39mk               - Wire[31mshar[39mk dissector for the libvirt protoc
-p   libwire[31mshar[39mk-data               - network packet dissection library -- data 
-p   libwire[31mshar[39mk-dev                - network packet dissection library -- devel
-v   libwire[31mshar[39mk17                  -                                           
-p   libwire[31mshar[39mk17t64               - network packet dissection library -- [31mshar[39me
-p   manila-[31mshar[39me                    - OpenStack [31mshar[39med file system as a service 
-p   mate-user-[31mshar[39me                 - User level public file [31mshar[39ming via WebDAV 
-p   mate-user-[31mshar[39me-common          - User level public file [31mshar[39ming via WebDAV 
-p   maxima-[31mshar[39me                    - Computer algebra system -- extra code     
-p   mono-c[31mshar[39mp-shell               - interactive C# shell                      
-p   nautilus-[31mshar[39me                  - Nautilus extension to [31mshar[39me folder using S
-i   nemo-[31mshar[39me                      - Nemo extension to [31mshar[39me folder using Samba
-v   node-babel-eslint-[31mshar[39med-fixtur -                                           
-v   node-is-[31mshar[39med-array-buffer     -                                           
-p   onion[31mshar[39me                      - Share a file over Tor Hidden Services anon
-p   onion[31mshar[39me-cli                  - Share a file over Tor Hidden Services anon
-p   peony-[31mshar[39me                     - Allows one to quickly [31mshar[39me a folder from 
-p   python3-pickle[31mshar[39me             - File system based database that uses Pytho
-p   qml-module-qt-labs-[31mshar[39medimage  - Qt 5 SharedImage QML module               
-p   qml-module-qt-labs-[31mshar[39medimage: - Qt 5 SharedImage QML module               
-p   qml-module-qtwayland-client-tex - Qt 5 Wayland Shared Texture Provider QML m
-p   qml6-module-qt-labs-[31mshar[39medimage - Qt 6 Shared Image Provider QML module     
-p   qml6-module-qtwayland-client-te - Qt 6 Wayland Shared Texture Provider QML m
-p   ruby-minitest-[31mshar[39med-descriptio - Support for [31mshar[39med specs and [31mshar[39med spec s
-p   [31mshar[39mds                          - dependency manager for the Crystal languag
-i   [31mshar[39med-mime-info                - FreeDesktop.org [31mshar[39med MIME database and s
-p   [31mshar[39med-mime-info:i386           - FreeDesktop.org [31mshar[39med MIME database and s
-p   [31mshar[39mness                        - shell library for automated tests with TAP
-p   [31mshar[39mutils                       - [31mshar[39m, un[31mshar[39m, uuencode, uudecode          
-p   [31mshar[39mutils:i386                  - [31mshar[39m, un[31mshar[39m, uuencode, uudecode          
-p   [31mshar[39mutils-doc                   - Documentation for GNU [31mshar[39mutils           
-p   sml[31mshar[39mp                        - Standard ML compiler with practical extens
-p   term[31mshar[39mk                       - Terminal UI for t[31mshar[39mk, inspired by Wiresh
-p   trace[31mshar[39mk                      - Graphical viewer for the Ftrace and Perf e
-p   t[31mshar[39mk                          - network traffic analyzer - console version
-p   tty-[31mshar[39me                       - Terminal [31mshar[39ming over the Internet        
-p   wire[31mshar[39mk                       - network traffic analyzer - graphical inter
-p   wire[31mshar[39mk-common                - network traffic analyzer - common files   
-p   wire[31mshar[39mk-dev                   - network traffic analyzer - development too
-p   wire[31mshar[39mk-doc                   - network traffic analyzer - documentation  
-p   x2godesktop[31mshar[39ming              - Share X11 desktops with other users via X2
-p   x2goserver-desktop[31mshar[39ming       - Share X11 desktops with other users via X2
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[69C[0m[49m[38;5;101m4s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90man 7z[39m[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mn[0m[39m[0m[32mm[0m[32ma[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39ms[39m [90mu[39m[39mhar[?1l>[?2004l
-]2;man shar]1;manNo manual entry for shar
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004h[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71Dman shar[8D[32mm[32ma[32mn[39m[5C[8D[32ms[32mu[32md[39mo apt search shar[20D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32ma[32mp[32mt[39m[12C[1C shar  shar  shar  shar  shar  shar i sharn shars shart shara sharl sharl shar[1C[1C[1C[1C[1Cutilus[?1l>[?2004l
-]2;sudo apt install sharutilus]1;aptReading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
-Reading state information... 0% Reading state information... 1%Reading state information... Done
-[1;31mE: [0mUnable to locate package sharutilus[0m
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hsudo apt install sharutilus[27D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32ma[32mp[32mt[39m[19C[1Cs [?1l>[?2004l
-]2;sudo apt install sharutils]1;aptReading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
-Reading state information... 0% Reading state information... 1%Reading state information... Done
-Suggested packages:
-  bsd-mailx | mailx sharutils-doc
-The following NEW packages will be installed:
-  sharutils
-0 upgraded, 1 newly installed, 0 to remove and 192 not upgraded.
-Need to get 259 kB of archives.
-After this operation, 1.276 kB of additional disk space will be used.
-[33m0% [Working][0m[33m0% [Waiting for headers][0m                        Get:1 http://archive.ubuntu.com/ubuntu noble/universe amd64 sharutils amd64 1:4.15.2-9 [259 kB]
-[33m1% [1 sharutils 2.588 B/259 kB 1%][0m[33m13% [1 sharutils 42,5 kB/259 kB 16%][0m[33m                                    52% [1 sharutils 167 kB/259 kB 65%][0m[33m                                   100% [Working][0m              Fetched 259 kB in 2s (131 kB/s)
-
-7[0;22r8[1ASelecting previously unselected package sharutils.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 458940 files and directories currently installed.)
-Preparing to unpack .../sharutils_1%3a4.15.2-9_amd64.deb ...
-7[23;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[23;0f[42m[30mProgress: [ 20%][49m[39m [###########...............................................] 8Unpacking sharutils (1:4.15.2-9) ...
-7[23;0f[42m[30mProgress: [ 40%][49m[39m [#######################...................................] 8Setting up sharutils (1:4.15.2-9) ...
-7[23;0f[42m[30mProgress: [ 60%][49m[39m [##################################........................] 87[23;0f[42m[30mProgress: [ 80%][49m[39m [##############################################............] 8Processing triggers for install-info (7.1-3build2) ...
-Processing triggers for man-db (2.12.0-4build2) ...
-
-7[0;23r8[1A[J[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[69C[0m[49m[38;5;101m6s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[71D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo apt install sharutils[39m[25D[1m[31ms[1m[31mh[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[0m[32ms[0m[32mh[39m[90mar file1 file2 > arc.sh[39m[23D[32ms[32mh[32ma[39m[1m[31ms[1m[31mh[1m[31ma[0m[39m[39mr[39m [39mf[39mi[39ml[39me[39m1[39m [39mf[39mi[39ml[39me[39m2[39m [39m>[39m [39ma[39mr[39mc[39m.[39ms[39mh[25D[0m[32ms[0m[32mh[0m[32ma[32mr[39m [4mf[4mi[4ml[4me[4m1[24m [4mf[4mi[4ml[4me[4m2[24m [33m>[39m [4ma[4mr[4mc[4m.[4ms[4mh[24m[?1l>[?2004l
-]2;shar file1 file2 > arc.sh]1;sharshar: Saving file1 (empty)
-shar: Saving file2 (empty)
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hl[32ml[39m[32ml[39m[90ms Downloads[39m[11D[32ml[32ms[39m[32ml[32ms[32m [39m[32ml[32ms[39m[39m [39m-[39m [39m [39m [39m [39m [39m [39m [39m [8D[90ml[39m[39ml[?1l>[?2004l
-]2;ls --color=tty -l]1;lstotal 2863592
-drwxrwxr-x 2 user user      4096 Mar  8 13:22 [0m[01;34manother-dir[0m
--rw-rw-r-- 1 user user      4262 Mar  8 13:45 arc.sh
-drwxrwxr-x 2 user user      4096 Mar  8 13:36 [01;34mDownloads[0m
--rw-rw-r-- 1 user user         0 Mar  8 13:43 file1
--rw-rw-r-- 1 user user         0 Mar  8 13:43 file2
--rw-rw-r-- 1 user user 524288000 Mar  8 13:42 mint.7z.001
--rw-rw-r-- 1 user user 524288000 Mar  8 13:40 mint.7z.002
--rw-rw-r-- 1 user user 524288000 Mar  8 13:41 mint.7z.003
--rw-rw-r-- 1 user user 524288000 Mar  8 13:41 mint.7z.004
--rw-rw-r-- 1 user user 524288000 Mar  8 13:42 mint.7z.005
--rw-rw-r-- 1 user user 310843497 Mar  8 13:42 mint.7z.006
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[1m[31mc[1m[31mm[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[1m[31mc[0m[39m[0m[39m [1m[31mc[0m[39m[90mat mint.tar.gz.parta* > mint.tar.gz[39m[35D[1m[31mc[1m[31mh[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[90mage -l test4[39m[12D[1m[31mc[1m[31mh[1m[31mm[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[1m[31mm[1m[31mo[0m[39m[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mh[0m[32mm[0m[32mo[0m[32md[39m[32md[32m [39m[32md[39m[39m _ +x[39ms[32mc[32mh[32mm[32mo[32md[39m +x[8D[1m[31ms[1m[31mc[1m[31mh[1m[31mm[1m[31mo[1m[31md[0m[39m[1m[31ms[1m[31mu[1m[31mc[1m[31mh[1m[31mm[1m[31mo[1m[31md[0m[39m +x[8D[1m[31md[1m[31mc[1m[31mh[1m[31mm[1m[31mo[1m[31md[0m[39m +x[8D[1m[31mo[1m[31mc[1m[31mh[1m[31mm[1m[31mo[1m[31md[0m[39m +x[8D[1m[31m [1m[31mc[1m[31mh[1m[31mm[1m[31mo[1m[31md[0m[39m +x[8D[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[0m[39m [0m[32mc[0m[32mh[0m[32mm[0m[32mo[0m[32md[39m[1C[1C[1C[1C[1C[1C[1C[1C a[4ma[24m[4ma[4mr[24m[4mr[4mc[24m[4mc[4m.sh[24m[1m [0m[0m [?1l>[?2004l
-]2;sudo chmod +x arc.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004ha[4ma[24m[4ma[24m[90mdduser visitor[39m[14D[4ma[39m[4mr[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[24m[32ma[24m[32mr[39m[39ma[39mr
-[0mar                     arm2hpdl               arptables-nft-restore
-arch                   arp                    arptables-nft-save   
-arecord                arpd                   arptables-restore    
-arecordmidi            arptables              arptables-save       
-[Jargv                   [Jarptables-nft          [J                     [5A[0m[27m[24m[0m[39m[49m[8Car[K[69C[0m[49m[39m[0m[39m[49m[69D[32ma[32mr[39m[32ma[32mr[32mc[39m[39m[4ma[39m[4mr[39m[4mc[24m[24m[32ma[24m[32mr[24m[32mc[32mh[39m[1m [0m[0m [32mc[39m[39m [39m[4ma[39m[4mr[39m[4mc[24m[4ma[4mr[24m[24m [24m[32ma[24m[32mr[39m[32ma[32mr[32mc[39m[39m[4ma[39m[4mr[39m[4mc[24m[4mc[4m.[24m
-[J[A[12C[24ma[24mr[24mc[24m.[4ma[4mr[4mc[4m.[24m[24m/[4ma[4mr[4mc[4m.[24m[1m[31m/[24m[1m[31ma[24m[1m[31mr[24m[1m[31mc[24m[1m[31m.[0m[39m[1C[0m[39m.[1m[31m/[1m[31ma[1m[31mr[1m[31mc[1m[31m.[0m[39m[4m.[0m[39m[4m/[0m[39m[4ma[0m[39m[4mr[0m[39m[4mc[0m[39m[4m.[24m[1C[1C[1C[1C[1C[4m.[4ms[24m[24m[32m.[24m[32m/[24m[32ma[24m[32mr[24m[32mc[24m[32m.[24m[32ms[32mh[39m[1m [0m[0m [?1l>[?2004l
-[J]2;./arc.sh]1;./arc.shx - created lock directory _sh05890.
-x - SKIPPING file1 (file already exists)
-x - SKIPPING file2 (file already exists)
-x - removed lock directory _sh05890.
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~/tmp]1;~/tmp]7;file://vbox/home/user/tmp\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[71C[0m[49m[39m[71D[?1h=[?2004h[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mtmp[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[108C[0m[49m[39m[108De[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
-]2;exit]1;exit
-Script done on 2025-03-08 13:47:21+03:00 [COMMAND_EXIT_CODE="0"]

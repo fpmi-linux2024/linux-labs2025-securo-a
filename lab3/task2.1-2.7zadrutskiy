@@ -1,597 +1,0 @@
-Script started on 2025-02-28 23:54:33+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
-[0m[49m[39m[27m[24m[K
-[1A7[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[49m[39m[27m[24m[J]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?25h[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mlear[39m[1m[31mc[1m[31ml[0m[39m[1m[31mc[1m[31ml[1m[31me[0m[39m[1m[31me[1m[31ma[0m[39m[1m[31ma[1m[31mr[0m[39m[0m[32mc[0m[32ml[0m[32me[0m[32ma[0m[32mr[39m[?1l>[?2004l
-]2;clear]1;clear[H[2J[3J[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mcript -ttimelog2.1-2.7zadrutskiy task2.1-2.7zadrutskiy[39m[54D[1m[31ms[1m[31mu[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [53D[0m[32ms[0m[32mu[39m[90mdo rm -rdf visitor[39m[18D[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mu[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[1m[31mu[0m[39m[90mseradd -e 2025-06-01 -f 3 friend[39m[32D[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[1m[31ma[1m[31md[0m[39m[1m[31md[1m[31md[0m[39m[0m[32mu[0m[32ms[0m[32me[0m[32mr[0m[32ma[0m[32md[0m[32md[39m[32md[32m [39m[32md[39m[39m [39m-[39me[39m [39m2[39m0[39m2[39m5[39m-[39m0[39m6[39m-[39m0[39m1[39m [39m-[39mf[39m [39m3[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo useradd -e 2025-06-01 -f 3 friend]1;useradd[sudo] password for user: ********        
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[73C[0m[49m[38;5;101m3s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90man usermod[39m[10D[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mn[0m[39m[0m[32mm[0m[32ma[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39md[39m [39m [39m [39m [39m [39m a  [90musermod[39m[39ma[39m [39m [39m [39m [39m [39m [90mdduser[39m[39md[39md[39mu[39ms[39me[39mr[?1l>[?2004l
-]2;man adduser]1;man[?1049h[22;0;0t[?1h=[4mADDUSER[24m(8)                  System Manager's Manual                 [4mADDUSER[24m(8)[m
-[m
-[1mNAME[0m[m
-       adduser, addgroup - add or manipulate users or groups[m
-[m
-[1mSYNOPSIS[0m[m
-       [1madduser [22m[[1m--add-extra-groups[22m] [[1m--allow-all-names[22m] [[1m--allow-bad-names[22m][m
-               [[1m--comment [4m[22mcomment[24m] [[1m--conf [4m[22mfile[24m] [[1m--debug[22m] [[1m--disabled-login[22m][m
-               [[1m--disabled-password[22m] [[1m--encrypt-home[22m] [[1m--firstgid [4m[22mid[24m][m
-               [[1m--firstuid [4m[22mid[24m] [[1m--gid [4m[22mid[24m] [[1m--home [4m[22mdir[24m] [[1m--ingroup [4m[22mgroup[24m][m
-               [[1m--lastgid [4m[22mid[24m] [[1m--lastuid [4m[22mid[24m] [[1m--no-create-home[22m][m
-               [[1m--shell [4m[22mshell[24m] [[1m--quiet[22m] [[1m--uid [4m[22mid[24m] [[1m--verbose[22m][m
-               [[1m--stdoutmsglevel [4m[22mprio[24m] [[1m--stderrmsglevel [4m[22mprio[24m][m
-               [[1m--logmsglevel [4m[22mprio[24m] [1muser[0m[m
-[m
-       [1madduser --system [22m[[1m--comment [4m[22mcomment[24m] [[1m--conf [4m[22mfile[24m] [[1m--debug[22m] [[1m--gid [4m[22mid[24m][m
-               [[1m--group[22m] [[1m--home [4m[22mdir[24m] [[1m--ingroup [4m[22mgroup[24m] [[1m--no-create-home[22m][m
-               [[1m--shell [4m[22mshell[24m] [[1m--uid [4m[22mid[24m] [[1m--quiet[22m] [[1m--verbose[22m][m
-               [[1m--stdoutmsglevel [4m[22mprio[24m] [[1m--stderrmsglevel [4m[22mprio[24m][m
-               [[1m--logmsglevel [4m[22mprio[24m] [1muser[0m[m
-[m
-       [1madduser --group [22m[[1m--conf [4m[22mfile[24m] [[1m--debug[22m] [[1m--firstgid [4m[22mid[24m] [[1m--gid [4m[22mID[24m][m
-               [[1m--lastgid [4m[22mid[24m] [[1m--quiet[22m] [[1m--verbose[22m] [[1m--stdoutmsglevel [4m[22mprio[24m][m
-[7m Manual page adduser(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               [[1m--stderrmsglevel [4m[22mprio[24m] [[1m--logmsglevel [4m[22mprio[24m] [1mgroup[0m[m
-[7m Manual page adduser(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1maddgroup [22m[[1m--conf [4m[22mfile[24m] [[1m--debug[22m] [[1m--firstgid [4m[22mid[24m] [[1m--gid [4m[22mID[24m][m
-[7m Manual page adduser(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                [[1m--lastgid [4m[22mid[24m] [[1m--quiet[22m] [[1m--verbose[22m] [[1m--stdoutmsglevel [4m[22mprio[24m][m
-[7m Manual page adduser(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                [[1m--stderrmsglevel [4m[22mprio[24m] [[1m--logmsglevel [4m[22mprio[24m] [1mgroup[0m[m
-[7m Manual page adduser(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1maddgroup --system [22m[[1m--gid [4m[22mid[24m] [[1m--conf [4m[22mfile[24m] [[1m--quiet[22m] [[1m--verbose[22m][m
-[7m Manual page adduser(8) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                [[1m--stdoutmsglevel [4m[22mprio[24m] [[1m--stderrmsglevel [4m[22mprio[24m][m
-[7m Manual page adduser(8) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                [[1m--logmsglevel [4m[22mprio[24m] [1mgroup[0m[m
-[7m Manual page adduser(8) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22m[[1m--conf [4m[22mfile[24m] [[1m--debug[22m] [[1m--quiet[22m] [[1m--verbose[22m][m
-[7m Manual page adduser(8) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               [[1m--stdoutmsglevel [4m[22mprio[24m] [[1m--stderrmsglevel [4m[22mprio[24m][m
-[7m Manual page adduser(8) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               [[1m--logmsglevel [4m[22mprio[24m] [1muser group[0m[m
-[7m Manual page adduser(8) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser --help[0m[m
-[7m Manual page adduser(8) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser --version[0m[m
-[7m Manual page adduser(8) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mDESCRIPTION[0m[m
-[7m Manual page adduser(8) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser  [22mand  [1maddgroup  [22madd users and groups to the system according to[m
-[7m Manual page adduser(8) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       command  line  options  and  configuration  information   in   [4m/etc/ad‐[0m[m
-[7m Manual page adduser(8) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4mduser.conf[24m.  They are friendlier front ends to the low level tools like[m
-[7m Manual page adduser(8) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1museradd[22m, [1mgroupadd [22mand [1musermod [22mprograms, by default choosing Debian pol‐[m
-[7m Manual page adduser(8) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       icy  conformant  UID  and  GID  values,  creating a home directory with[m
-[7m Manual page adduser(8) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       skeletal configuration, running a custom script, and other features.[m
-[7m Manual page adduser(8) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22mand [1maddgroup [22mare intended as a policy layer, making  it  easier[m
-[7m Manual page adduser(8) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       for package maintainers and local administrators to create local system[m
-[7m Manual page adduser(8) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       accounts  in the way Debian expects them to be created, taking the bur‐[m
-[7m Manual page adduser(8) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       den to adapt to the probably changing specifications of Debian  policy.[m
-[7m Manual page adduser(8) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser  --system [22mtakes special attention on just needing a single call[m
-[7m Manual page adduser(8) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in the package maintainer scripts without any conditional wrappers, er‐[m
-[7m Manual page adduser(8) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ror suppression or other scaffolding.[m
-[7m Manual page adduser(8) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22mhonors the distinction  between  [4mdynamically[24m  [4mallocated[24m  [4msystem[0m[m
-[7m Manual page adduser(8) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4musers[24m  [4mand[24m [4mgroups[24m and [4mdynamically[24m [4mallocated[24m [4muser[24m [4maccounts[24m that is docu‐[m
-[7m Manual page adduser(8) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       mented in Debian Policy, Chapter 9.2.2.[m
-[7m Manual page adduser(8) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       For a full list and explanations of all options, see the  OPTIONS  sec‐[m
-[7m Manual page adduser(8) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tion.[m
-[7m Manual page adduser(8) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22mand [1maddgroup [22mcan be run in one of five modes:[m
-[7m Manual page adduser(8) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mAdd a normal user[0m[m
-[7m Manual page adduser(8) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If  called  with  one  non-option  argument and without the [1m--system [22mor[m
-[7m Manual page adduser(8) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--group  [22moptions, [1madduser [22mwill add a normal user, that means a  [4mdynami‐[0m[m
-[7m Manual page adduser(8) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4mcally[24m  [4mallocated[24m  [4muser[24m  [4maccount[24m in the sense of Debian Policy.  This is[m
-[7m Manual page adduser(8) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       commonly referred to in [1madduser [22mas a [4mnon-system[24m [4muser.[0m[m
-[7m Manual page adduser(8) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22mwill choose the first available UID from the range specified by[m
-[7m Manual page adduser(8) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mFIRST_UID [22mand [1mLAST_UID [22min the configuration file.   The  range  may  be[m
-[7m Manual page adduser(8) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       overridden with the [1m--firstuid [22mand [1m--lastuid [22moptions.  Finally, the UID[m
-[7m Manual page adduser(8) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       can be set fully manually with the [1m--uid [22moption.[m
-[7m Manual page adduser(8) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       By  default,  each  user  is  given a corresponding group with the same[m
-[7m Manual page adduser(8) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       name.  This is commonly called [4mUsergroups[24m and allows group writable di‐[m
-[7m Manual page adduser(8) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rectories to be easily maintained by placing the appropriate  users  in[m
-[7m Manual page adduser(8) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the  new  group, setting the set-group-ID bit in the directory, and en‐[m
-[7m Manual page adduser(8) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       suring that all users use a umask of 002.[m
-[7m Manual page adduser(8) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       For a usergroup, [1madduser [22mwill choose the first available GID  from  the[m
-[7m Manual page adduser(8) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       range  specified  by  [1mFIRST_GID [22mand [1mLAST_GID [22min the configuration file.[m
-[7m Manual page adduser(8) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The range may be overridden with the [1m--firstgid [22mand [1m--lastgid  [22moptions.[m
-[7m Manual page adduser(8) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Finally, the GID can be set fully manually with the [1m--gid [22moption.[m
-[7m Manual page adduser(8) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The  interaction  between [1mUSERS_GID[22m, [1mUSERS_GROUP[22m, and [1mUSERGROUPS [22mis ex‐[m
-[7m Manual page adduser(8) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       plained in detail in [1madduser.conf[22m(5).[m
-[7m Manual page adduser(8) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Users' primary groups can also be overridden from the command line with[m
-[7m Manual page adduser(8) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the [1m--gid  [22mor [1m--ingroup [22moptions to set the group by id or name, respec‐[m
-[7m Manual page adduser(8) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tively.  Also, users can be added to one or  more  supplemental  groups[m
-[7m Manual page adduser(8) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       defined  as  [1mEXTRA_GROUPS  [22min  the configuration file either by setting[m
-[7m Manual page adduser(8) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mADD_EXTRA_GROUPS  [22mto  1  in  the  configuration  file,  or  by  passing[m
-[7m Manual page adduser(8) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--add-extra-groups [22mon the command line.[m
-[7m Manual page adduser(8) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser  [22mwill  copy  files  from  [4m/etc/skel[24m into the home directory and[m
-[7m Manual page adduser(8) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       prompt for the comment field and a password if those functions have not[m
-[7m Manual page adduser(8) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       been turned off / overridden from the command line.[m
-[7m Manual page adduser(8) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       UID, comment, home directory and shell might be pre-determined with the[m
-[7m Manual page adduser(8) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mUID_POOL [22mand [1mGID_POOL [22moption, documented in [1madduser.conf[22m(5).[m
-[7m Manual page adduser(8) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       To set up an encrypted home directory for the new user, add  the  [1m--en‐[0m[m
-[7m Manual page adduser(8) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mcrypt-home  [22moption.   For  more  information, refer to the -b option of[m
-[7m Manual page adduser(8) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mecryptfs-setup-private(1).[0m[m
-[7m Manual page adduser(8) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mAdd a system user[0m[m
-[7m Manual page adduser(8) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If called with one non-option argument and the [1m--system [22moption, [1madduser[0m[m
-[7m Manual page adduser(8) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       will add a [4mdynamically[24m [4mallocated[24m [4msystem[24m [4muser,[24m often abbreviated as [4msys‐[0m[m
-[7m Manual page adduser(8) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4mtem[24m [4muser[24m in the context of the [1madduser [22mpackage.[m
-[7m Manual page adduser(8) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madduser [22mwill choose the first available UID from the range specified by[m
-[7m Manual page adduser(8) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mFIRST_SYSTEM_UID [22mand [1mLAST_SYSTEM_UID [22min the configuration  file.   This[m
-[7m Manual page adduser(8) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       can be overridden with the [1m--uid [22moption.[m
-[7m Manual page adduser(8) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       By default, system users are placed in the [1mnogroup [22mgroup.  To place the[m
-[7m Manual page adduser(8) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       new  system  user  in an already existing group, use the [1m--gid [22mor [1m--in‐[0m[m
-[7m Manual page adduser(8) line 98 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mgroup [22moptions.  If the [1m--group [22mis given and the identically named group[m
-[7m Manual page adduser(8) line 99 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       does not already exist, it is created with the same ID.[m
-[7m Manual page adduser(8) line 100 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If no home directory is specified, the default home directory for a new[m
-[7m Manual page adduser(8) line 102 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       system user is [4m/nonexistent[24m.  This directory should never exist on  any[m
-[7m Manual page adduser(8) line 103 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Debian system, and [1madduser [22mwill never create it automatically.[m
-[7m Manual page adduser(8) line 104 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 105 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Unless  a shell is explicitly set with the [1m--shell [22moption, the new sys‐[m
-[7m Manual page adduser(8) line 106 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tem user will have the shell set to [4m/usr/sbin/nologin[24m.  [1madduser  --sys‐[0m[m
-[7m Manual page adduser(8) line 107 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mtem  [22mdoes  not set a password for the new account.  Skeletal configura‐[m
-[7m Manual page adduser(8) line 108 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tion files are not copied.[m
-[7m Manual page adduser(8) line 109 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 110 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Other options will behave as for the creation of a  normal  user.   The[m
-[7m Manual page adduser(8) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       files referenced by [1mUID_POOL [22mand [1mGID_POOL [22mdo also work.[m
-[7m Manual page adduser(8) line 112 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 113 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mAdd a group[0m[m
-[7m Manual page adduser(8) line 114 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If  [1madduser  [22mis called with the [1m--group [22moption and without the [1m--system[0m[m
-[7m Manual page adduser(8) line 115 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       option, or [1maddgroup [22mis called respectively, a user group will be added.[m
-[7m Manual page adduser(8) line 116 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 117 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       A [4mdynamically[24m [4mallocated[24m [4msystem[24m [4mgroup,[24m often abbreviated as [4msystem[24m [4mgroup[0m[m
-[7m Manual page adduser(8) line 118 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in the context of the [1madduser [22mpackage, will be created  if  [1madduser  [22mis[m
-[7m Manual page adduser(8) line 119 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       called with the [1m--system [22moption.[m
-[7m Manual page adduser(8) line 120 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       A  GID  will  be chosen from the respective range specified for GIDs in[m
-[7m Manual page adduser(8) line 122 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the  configuration   file   ([1mFIRST_GID[22m,   [1mLAST_GID[22m,   [1mFIRST_SYSTEM_GID[22m,[m
-[7m Manual page adduser(8) line 123 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mLAST_SYSTEM_GID[22m).  To override that mechanism, you can give the GID us‐[m
-[7m Manual page adduser(8) line 124 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ing the [1m--gid [22moption.[m
-[7m Manual page adduser(8) line 125 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 126 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       For  non-system  groups,  the range specified in the configuration file[m
-[7m Manual page adduser(8) line 127 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       may be overridden with the [1m--firstgid [22mand [1m--lastgid [22moptions.[m
-[7m Manual page adduser(8) line 128 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 129 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The group is created with no members.[m
-[7m Manual page adduser(8) line 130 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mAdd an existing user to an existing group[0m[m
-[7m Manual page adduser(8) line 132 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If called with two non-option arguments, [1madduser [22mwill add  an  existing[m
-[7m Manual page adduser(8) line 133 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       user to an existing group.[m
-[7m Manual page adduser(8) line 134 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 135 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mOPTIONS[0m[m
-[7m Manual page adduser(8) line 136 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Different  modes of [1madduser [22mallow different options.  If no valid modes[m
-[7m Manual page adduser(8) line 137 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       are listed for a option, it is accepted in all modes.[m
-[7m Manual page adduser(8) line 138 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 139 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Short versions for certain options may exist  for  historical  reasons.[m
-[7m Manual page adduser(8) line 140 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       They  are  going to stay supported, but are removed from the documenta‐[m
-[7m Manual page adduser(8) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tion.  Users are advised to migrate to the long version of options.[m
-[7m Manual page adduser(8) line 142 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 143 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--add-extra-groups[0m[m
-[7m Manual page adduser(8) line 144 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Add new user to extra groups defined in the configuration files'[m
-[7m Manual page adduser(8) line 145 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mEXTRA_GROUPS [22msetting.  The old  spelling  [1m--add_extra_groups  [22mis[m
-[7m Manual page adduser(8) line 146 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              deprecated and will be supported in Debian bookworm only.  Valid[m
-[7m Manual page adduser(8) line 147 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Modes: [1madduser[22m, [1madduser --system[22m.[m
-[7m Manual page adduser(8) line 148 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 149 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--allow-all-names[0m[m
-[7m Manual page adduser(8) line 150 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Allow any user- and groupname which is supported by the underly‐[m
-[7m Manual page adduser(8) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ing [1museradd[22m(8), including names containing non-ASCII characters.[m
-[7m Manual page adduser(8) line 152 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              See  VALID  NAMES in [1madduser.conf[22m(5).  Valid Modes: [1madduser[22m, [1mad‐[0m[m
-[7m Manual page adduser(8) line 153 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mduser --system[22m, [1maddgroup[22m, [1maddgroup --system[22m.[m
-[7m Manual page adduser(8) line 154 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 155 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--allow-bad-names[0m[m
-[7m Manual page adduser(8) line 156 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Disable [1mNAME_REGEX [22mand [1mSYS_NAME_REGEX [22mcheck of  names.   Only  a[m
-[7m Manual page adduser(8) line 157 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              weaker  check  for  validity  of the name is applied.  See VALID[m
-[7m Manual page adduser(8) line 158 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              NAMES in [1madduser.conf[22m(5).  Valid Modes: [1madduser[22m, [1madduser  --sys‐[0m[m
-[7m Manual page adduser(8) line 159 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mtem[22m, [1maddgroup[22m, [1maddgroup --system[22m.[m
-[7m Manual page adduser(8) line 160 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--comment [4m[22mcomment[0m[m
-[7m Manual page adduser(8) line 162 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the comment field for the new entry generated.  [1madduser [22mwill[m
-[7m Manual page adduser(8) line 163 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              not ask for the information if this option is given.  This field[m
-[7m Manual page adduser(8) line 164 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              is  also  known under the name GECOS field and contains informa‐[m
-[7m Manual page adduser(8) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              tion that is used by the [1mfinger[22m(1) command.  This used to be the[m
-[7m Manual page adduser(8) line 166 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1m--gecos [22moption, which is deprecated and will  be  removed  after[m
-[7m Manual page adduser(8) line 167 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Debian bookworm.  Valid Modes: [1madduser[22m, [1madduser --system[22m.[m
-[7m Manual page adduser(8) line 168 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 169 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--conf [4m[22mfile[0m[m
-[7m Manual page adduser(8) line 170 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Use  [4mfile[24m instead of [4m/etc/adduser.conf[24m.  Multiple [1m--conf [22moptions[m
-[7m Manual page adduser(8) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              can be given.[m
-[7m Manual page adduser(8) line 172 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 173 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--debug[0m[m
-[7m Manual page adduser(8) line 174 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Synonymous to --stdoutmsglevel=debug. Deprecated.[m
-[7m Manual page adduser(8) line 175 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page adduser(8) line 176 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--disabled-login[0m[m
-[7m Manual page adduser(8) line 177 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--disabled-password[0m[m
-[7m Manual page adduser(8) line 178 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Do not run [1mpasswd[22m(1) to set a password.  In most situations, lo‐[m
-[7m Manual page adduser(8) line 179 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              gins are still possible though (for example using  SSH  keys  or[m
-[7m Manual page adduser(8) line 180 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              through  PAM)  for  reasons  that  are  beyond  [1madduser[22m's scope.[m
-[7m Manual page adduser(8) line 181 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[72C[0m[49m[38;5;101m10s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo useradd -e 2025-06-01 -f 3 friend[39m[37D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ma[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[1m[31ma[0m[39m[90mdduser --disabled-password visitor[39m[34D[1m[31ma[1m[31md[0m[39m[1m[31md[1m[31md[0m[39m[1m[31md[1m[31mu[0m[39m[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[0m[32ma[0m[32md[0m[32md[0m[32mu[0m[32ms[0m[32me[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39m-[39m-[39md[39mi[39ms[39ma[39mb[39ml[39me[39md[39m-[39mp[39ma[39ms[39ms[39mw[39mo[39mr[39md[39m [39mv[39mi[39ms[39mi[39mt[39mo[39mr[?1l>[?2004l
-]2;sudo adduser --disabled-password visitor]1;adduserinfo: Adding user `visitor' ...
-info: Selecting UID/GID from range 1000 to 59999 ...
-info: Adding new group `visitor' (1002) ...
-info: Adding new user `visitor' (1002) with group `visitor (1002)' ...
-info: Creating home directory `/home/visitor' ...
-info: Copying files from `/etc/skel' ...
-Changing the user information for visitor
-Enter the new value, or press ENTER for the default
-	Full Name []: 
-	Room Number []: 
-	Work Phone []: 
-	Home Phone []: 
-	Other []: 
-Is the information correct? [Y/n] 
-info: Adding new user `visitor' to supplemental / extra groups `users' ...
-info: Adding user `visitor' to group `users' ...
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[73C[0m[49m[38;5;101m5s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo adduser --disabled-password visitor[39m[39D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mi[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[1m[31mi[1m[31m [0m[39m[1m[31mi[0m[39m[0m[39m [1m[31md[0m[39m[0m[39m [90mo adduser --disabled-password visitor[39m[37D[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mp[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[1m[31mp[0m[39m[90masswd friend[39m[12D[1m[31mp[1m[31ma[0m[39m[1m[31ma[1m[31ms[0m[39m[1m[31ms[1m[31ms[0m[39m[1m[31ms[1m[31mw[0m[39m[1m[31mw[1m[31md[0m[39m[0m[32mp[0m[32ma[0m[32ms[0m[32ms[0m[32mw[0m[32md[39m[32md[32m [39m[32md[39m[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo passwd friend]1;passwdNew password: 
-Retype new password: 
-passwd: password updated successfully
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[72C[0m[49m[38;5;101m14s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo passwd friend[39m[17D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[1m[31ms[0m[39m[90mu friend[39m[8D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32mu[32m [39m[32mu[39m[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo su friend]1;su$ passwd
-Changing password for friend.
-Current password: 
-New password: 
-Retype new password: 
-passwd: password updated successfully
-$ exit
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[72C[0m[49m[38;5;101m29s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90man adduser[39m[10D[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mn[0m[39m[0m[32mm[0m[32ma[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39mc[39m [39m [39m [39m [39m [39m [90mhage[39m[39mh[39m [39m [39m a[90mge[39m[39mg[39me[?1l>[?2004l
-]2;man chage]1;man[?1049h[22;0;0t[?1h=[4mCHAGE[24m(1)                         User Commands                        [4mCHAGE[24m(1)[m
-[m
-[1mNAME[0m[m
-       chage - change user password expiry information[m
-[m
-[1mSYNOPSIS[0m[m
-[m
-       [1mchage [22m[[4moptions[24m] [4mLOGIN[0m[m
-[m
-[1mDESCRIPTION[0m[m
-       The [1mchage [22mcommand changes the number of days between password changes[m
-       and the date of the last password change. This information is used by[m
-       the system to determine when a user must change their password.[m
-[m
-[1mOPTIONS[0m[m
-       The options which apply to the [1mchage [22mcommand are:[m
-[m
-       [1m-d[22m, [1m--lastday [4m[22mLAST_DAY[0m[m
-           Set the number of days since January 1st, 1970 when the password[m
-           was last changed. The date may also be expressed in the format[m
-           YYYY-MM-DD (or the format more commonly used in your area). If the[m
-           [4mLAST_DAY[24m is set to [4m0[24m the user is forced to change his password on[m
-           the next log on.[m
-[7m Manual page chage(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-E[22m, [1m--expiredate [4m[22mEXPIRE_DATE[0m[m
-[7m Manual page chage(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Set the date or number of days since January 1, 1970 on which the[m
-[7m Manual page chage(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           user's account will no longer be accessible. The date may also be[m
-[7m Manual page chage(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           expressed in the format YYYY-MM-DD (or the format more commonly[m
-[7m Manual page chage(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           used in your area). A user whose account is locked must contact the[m
-[7m Manual page chage(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           system administrator before being able to use the system again.[m
-[7m Manual page chage(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           For example the following can be used to set an account to expire[m
-[7m Manual page chage(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           in 180 days:[m
-[7m Manual page chage(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                        chage -E $(date -d +180days +%Y-%m-%d)[m
-[7m Manual page chage(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Passing the number [4m-1[24m as the [4mEXPIRE_DATE[24m will remove an account[m
-[7m Manual page chage(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           expiration date.[m
-[7m Manual page chage(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-h[22m, [1m--help[0m[m
-[7m Manual page chage(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Display help message and exit.[m
-[7m Manual page chage(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i[22m, [1m--iso8601[0m[m
-[7m Manual page chage(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           When printing dates, use YYYY-MM-DD format.[m
-[7m Manual page chage(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-I[22m, [1m--inactive [4m[22mINACTIVE[0m[m
-[7m Manual page chage(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Set the number of days of inactivity after a password has expired[m
-[7m Manual page chage(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           before the account is locked. The [4mINACTIVE[24m option is the number of[m
-[7m Manual page chage(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           days of inactivity. A user whose account is locked must contact the[m
-[7m Manual page chage(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           system administrator before being able to use the system again.[m
-[7m Manual page chage(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page chage(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Passing the number [4m-1[24m as the [4mINACTIVE[24m will remove an account's[m
-[7m Manual page chage(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           inactivity.[m
-[7m Manual page chage(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           system administrator before being able to use the system again.[m
-[24;1H[K[7m Manual page chage(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           used in your area). A user whose account is locked must contact the[m
-[24;1H[K[7m Manual page chage(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           expressed in the format YYYY-MM-DD (or the format more commonly[m
-[24;1H[K[7m Manual page chage(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           user's account will no longer be accessible. The date may also be[m
-[24;1H[K[7m Manual page chage(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           Set the date or number of days since January 1, 1970 on which the[m
-[24;1H[K[7m Manual page chage(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-E[22m, [1m--expiredate [4m[22mEXPIRE_DATE[0m[m
-[24;1H[K[7m Manual page chage(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[24;1H[K[7m Manual page chage(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           the next log on.[m
-[24;1H[K[7m Manual page chage(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [4mLAST_DAY[24m is set to [4m0[24m the user is forced to change his password on[m
-[24;1H[K[7m Manual page chage(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           YYYY-MM-DD (or the format more commonly used in your area). If the[m
-[24;1H[K[7m Manual page chage(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           was last changed. The date may also be expressed in the format[m
-[24;1H[K[7m Manual page chage(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           Set the number of days since January 1st, 1970 when the password[m
-[24;1H[K[7m Manual page chage(1) line 19 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[73C[0m[49m[38;5;101m3s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo su friend[39m[13D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mc[39m [39m [39m [39m [39m [39m [39m [39m [8D[1m[31mc[0m[39m[90mhfn friend[39m[10D[1m[31mc[1m[31mh[0m[39m[1m[31mh[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [8D[90mge -l friend[39m[12D[1m[31ma[1m[31mg[0m[39m[1m[31mg[1m[31me[0m[39m[0m[32mc[0m[32mh[0m[32ma[0m[32mg[0m[32me[39m[32me[32m [39m[32me[39m[39m [39m-[39mE[39m [39m [39m [39m [39m [39m [39m [90m 2025-08-14 friend[39m[18D[39m [39m2[39m0[39m2[39m5[39m-[39m0[39m8[39m0[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D [90m-14 friend[39m[10D[39m-[39m1[39m5[39m [39m [39m [39m [39m [39m [39m  [90m4 friend[39m[8D[39m4[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo chage -E 2025-08-14 friend]1;chage[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hf[1m[31mf[0m[39m[0m[39m s[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo chage -E 2025-08-14 friend[39m[30D[1m[31ms[1m[31md[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[1m[31ms[1m[31md[1m[31mu[0m[39m[1m[31ms[1m[31md[0m[39m[0m[39m [1m[31ms[0m[39m[0m[39m [1m[31ms[0m[39m[90mudo chage -E 2025-08-14 friend[39m[30D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mc[1m[31mc[0m[39m[1m[31mc[1m[31mh[0m[39m[1m[31mh[1m[31mf[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[90mn friend[39m[8D[1m[31mf[1m[31mn[0m[39m[0m[32mc[0m[32mh[0m[32mf[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo chfn friend]1;chfnChanging the user information for friend
-Enter the new value, or press ENTER for the default
-	Full Name []: 0
-	Room Number []: 0
-	Work Phone []: 0
-	Home Phone []: 0
-	Other []: 0
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[73C[0m[49m[38;5;101m6s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mlear[39m[1m[31mc[1m[31ma[0m[39m[39m [39m [39m [90mt /etc/passwd[39m[13D[1m[31mc[1m[31ma[1m[31mt[0m[39m[0m[32mc[0m[32ma[0m[32mt[39m[32mt[32m [39m[32mt[39m[39m [39m/[4m/[24m[4m/[39m[4me[24m[4me[39m[4mt[24m[4mt[39m[4mc[24m[4mc[39m[4m/[24m[4mc[24m[24m [39m [39m [39m [39m [39m [39m [90m/passwd[39m[4mc[39m[4m/[24m[4m/[39m[4mp[24m[4mp[39m[4ma[24m[4ma[39m[4ms[24m[4ms[39m[4ms[24m[4ms[39m[4mw[24m[4mw[39m[4md[24m[?1l>[?2004l
-]2;cat /etc/passwd]1;catroot:x:0:0:root:/root:/bin/bash
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin
-systemd-timesync:x:996:996:systemd Time Synchronization:/:/usr/sbin/nologin
-dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
-messagebus:x:101:101::/nonexistent:/usr/sbin/nologin
-syslog:x:102:102::/nonexistent:/usr/sbin/nologin
-systemd-resolve:x:991:991:systemd Resolver:/:/usr/sbin/nologin
-polkitd:x:990:990:User for polkitd:/:/usr/sbin/nologin
-usbmux:x:103:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
-tss:x:104:103:TPM software stack,,,:/var/lib/tpm:/bin/false
-rtkit:x:105:104:RealtimeKit,,,:/proc:/usr/sbin/nologin
-systemd-coredump:x:989:989:systemd Core Dumper:/:/usr/sbin/nologin
-uuidd:x:106:107::/run/uuidd:/usr/sbin/nologin
-cups-pk-helper:x:107:105:user for cups-pk-helper service,,,:/nonexistent:/usr/sbin/nologin
-avahi-autoipd:x:108:111:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
-kernoops:x:109:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
-avahi:x:110:112:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
-dnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin
-_flatpak:x:111:115:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
-nm-openvpn:x:112:116:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
-lightdm:x:113:117:Light Display Manager:/var/lib/lightdm:/bin/false
-tcpdump:x:114:119::/nonexistent:/usr/sbin/nologin
-speech-dispatcher:x:115:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
-fwupd-refresh:x:988:988:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
-geoclue:x:116:120::/var/lib/geoclue:/usr/sbin/nologin
-cups-browsed:x:117:105::/nonexistent:/usr/sbin/nologin
-saned:x:118:123::/var/lib/saned:/usr/sbin/nologin
-hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/false
-colord:x:120:124:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
-user:x:1000:1000:user,,,:/home/user:/bin/zsh
-vboxadd:x:997:1::/var/run/vboxadd:/bin/false
-friend:x:1001:1001:0,0,0,0,0:/home/friend:/bin/sh
-visitor:x:1002:1002:,,,:/home/visitor:/bin/bash
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo chfn friend[39m[15D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mu[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[1m[31mu[0m[39m[90mseradd -e 2025-06-01 -f 3 friend[39m[32D[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mm[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[90mod -d /home/guest2/ guest[39m[25D[1m[31mm[1m[31mo[0m[39m[1m[31mo[1m[31md[0m[39m[0m[32mu[0m[32ms[0m[32me[0m[32mr[0m[32mm[0m[32mo[0m[32md[39m[32md[32m [39m[32md[39m[39m [39m-[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[90m guest friend[39m[13D[39m [39mg[39mu[39me[39ms[39mt[39m [39mf[39mr[39mi[39me[39mn[39md[?1l>[?2004l
-]2;sudo usermod -l guest friend]1;usermod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo usermod -l guest friend[39m[27D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mu[1m[31mu[0m[39m[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mm[0m[39m[1m[31mm[1m[31mo[0m[39m[1m[31mo[1m[31md[0m[39m[0m[32mu[0m[32ms[0m[32me[0m[32mr[0m[32mm[0m[32mo[0m[32md[39m[32md[32m [39m[32md[39m[39m [39mp[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D [90m-l guest friend[39m[15D[39m-[39md[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90m /home/guest2/ guest[39m[20D[39m [39m/[4m/[24m[4m/[39m[4mh[24m[4mh[39m[4mo[24m[4mo[39m[4mm[24m[4mm[39m[4me[24m[4me[39m[4m/[24m[4m/[39m[4mg[24m[24m/[24mh[24mo[24mm[24me[24m/[24mg[39mu[39me[39ms[39mt[39m/[39m [39m [39m [39m [39m [39m [39m [90m guest[39m[39m [39mg[39mu[39me[39ma[39m  [90mst[39m [39m [39m [90mest[39m[39me[39ms[39mt[?1l>[?2004l
-]2;sudo usermod -d /home/guest/ guest]1;usermod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hsudo usermod -d /home/guest/ guest[34D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32mu[32ms[32me[32mr[32mm[32mo[32md[39m[22C[20Dl guest friend      [28D[4m[32mc[4m[32ma[4m[32mt[4m[32m [24m[39m/[32me[32mt[32mc[32m/[32mp[32ma[32ms[39mswd             [13D[15D[24m[32mc[24m[32ma[24m[32mt[39m[24m[39m [4m/[39m[4me[39m[4mt[39m[4mc[39m[4m/[39m[4mp[39m[4ma[39m[4ms[4ms[4mw[4md[24m[?1l>[?2004l
-]2;cat /etc/passwd]1;catroot:x:0:0:root:/root:/bin/bash
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin
-systemd-timesync:x:996:996:systemd Time Synchronization:/:/usr/sbin/nologin
-dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
-messagebus:x:101:101::/nonexistent:/usr/sbin/nologin
-syslog:x:102:102::/nonexistent:/usr/sbin/nologin
-systemd-resolve:x:991:991:systemd Resolver:/:/usr/sbin/nologin
-polkitd:x:990:990:User for polkitd:/:/usr/sbin/nologin
-usbmux:x:103:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
-tss:x:104:103:TPM software stack,,,:/var/lib/tpm:/bin/false
-rtkit:x:105:104:RealtimeKit,,,:/proc:/usr/sbin/nologin
-systemd-coredump:x:989:989:systemd Core Dumper:/:/usr/sbin/nologin
-uuidd:x:106:107::/run/uuidd:/usr/sbin/nologin
-cups-pk-helper:x:107:105:user for cups-pk-helper service,,,:/nonexistent:/usr/sbin/nologin
-avahi-autoipd:x:108:111:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
-kernoops:x:109:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
-avahi:x:110:112:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
-dnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin
-_flatpak:x:111:115:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
-nm-openvpn:x:112:116:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
-lightdm:x:113:117:Light Display Manager:/var/lib/lightdm:/bin/false
-tcpdump:x:114:119::/nonexistent:/usr/sbin/nologin
-speech-dispatcher:x:115:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
-fwupd-refresh:x:988:988:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
-geoclue:x:116:120::/var/lib/geoclue:/usr/sbin/nologin
-cups-browsed:x:117:105::/nonexistent:/usr/sbin/nologin
-saned:x:118:123::/var/lib/saned:/usr/sbin/nologin
-hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/false
-colord:x:120:124:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
-user:x:1000:1000:user,,,:/home/user:/bin/zsh
-vboxadd:x:997:1::/var/run/vboxadd:/bin/false
-visitor:x:1002:1002:,,,:/home/visitor:/bin/bash
-guest:x:1001:1001:0,0,0,0,0:/home/guest:/bin/sh
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo usermod -d /home/guest/ guest[39m[33D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mg[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[32mg[39m[39mg
-zsh: do you wish to see all 200 possibilities (100 lines)? r[J[A[0m[27m[24m[0m[39m[49m[4C[4m[32msudo[24m[39m g[K[69C[0m[49m[39m[0m[39m[49m[69D[32mg[39m[32mg[32mo[39m[1m[31mg[1m[31mo[0m[39m[1m[31mg[0m[39m[0m[39m [0m[32mg[39m[32mg[32mr[39m[32mr[32mo[39m[1m[31mg[1m[31mr[1m[31mo[0m[39m[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mp[0m[39m[0m[39mg[0m[39mr[0m[39mo[0m[39mu[0m[39mp
-[J[J[0mgroupadd   [Jgroupdel   [Jgroupmems  [Jgroupmod   [Jgroups   [J[A[0m[27m[24m[0m[39m[49m[4C[4m[32msudo[24m[39m group[K[65C[0m[49m[39m[0m[39m[49m[65D[1m[31mg[1m[31mr[1m[31mo[1m[31mu[1m[31mp[0m[39m[0m[32mg[0m[32mr[0m[32mo[0m[32mu[0m[32mp[32madd[39m
-[J[7mgroupadd [0m  [Jgroupdel   [Jgroupmems  [Jgroupmod   [Jgroups   [J[A[0m[27m[24m[0m[39m[49m[4C[4m[32msudo[24m[39m [32mgroupadd[39m[K[62C[0m[49m[39m[0m[39m[49m[62D
-[7mgroupadd [0m  [7mgroupadd [0m  [A[0m[27m[24m[0m[39m[49m[4C[4m[32msudo[24m[39m [32mgroupadd[39m[K[62C[0m[49m[39m[0m[39m[49m[62D
-[J[A[17C[1m [0m[1m [1mg[0m[0m [0mguests[?1l>[?2004l
-[J]2;sudo groupadd guests]1;groupadd[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hm[1m[31mm[0m[39m[1m[31mm[0m[39m[90man chage[39m[8D[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mn[0m[39m[0m[32mm[0m[32ma[0m[32mn[39m[32mn[32m [39m[32mn[39m[39m [39mu[39m [39m [39m [39m [90msermod[39m[39ms[39me[39mr[39mm[39mo[39md[?1l>[?2004l
-]2;man usermod]1;man[?1049h[22;0;0t[?1h=[4mUSERMOD[24m(8)                System Management Commands                [4mUSERMOD[24m(8)[m
-[m
-[1mNAME[0m[m
-       usermod - modify a user account[m
-[m
-[1mSYNOPSIS[0m[m
-[m
-       [1musermod [22m[[4moptions[24m] [4mLOGIN[0m[m
-[m
-[1mDESCRIPTION[0m[m
-       The [1musermod [22mcommand modifies the system account files.[m
-[m
-[1mOPTIONS[0m[m
-       The options which apply to the [1musermod [22mcommand are:[m
-[m
-       [1m-a[22m, [1m--append[0m[m
-           Add the user to the supplementary group(s). Use only with the [1m-G[0m[m
-           option.[m
-[m
-       [1m-b[22m, [1m--badname[0m[m
-           Allow names that do not conform to standards.[m
-[m
-       [1m-c[22m, [1m--comment [4m[22mCOMMENT[0m[m
-[7m Manual page usermod(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           update the comment field of the user in /etc/passwd, which is[m
-[7m Manual page usermod(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           normally modified using the [1mchfn[22m(1) utility.[m
-[7m Manual page usermod(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-d[22m, [1m--home [4m[22mHOME_DIR[0m[m
-[7m Manual page usermod(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The user's new login directory.[m
-[7m Manual page usermod(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           If the [1m-m [22moption is given, the contents of the current home[m
-[7m Manual page usermod(8) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           directory will be moved to the new home directory, which is created[m
-[7m Manual page usermod(8) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           if it does not already exist. If the current home directory does[m
-[7m Manual page usermod(8) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           not exist the new home directory will not be created.[m
-[7m Manual page usermod(8) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-e[22m, [1m--expiredate [4m[22mEXPIRE_DATE[0m[m
-[7m Manual page usermod(8) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The date on which the user account will be disabled. The date is[m
-[7m Manual page usermod(8) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           specified in the format [4mYYYY-MM-DD[24m. Integers as input are[m
-[7m Manual page usermod(8) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           interpreted as days after 1970-01-01.[m
-[7m Manual page usermod(8) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           An input of -1 or an empty string will blank the account expiration[m
-[7m Manual page usermod(8) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           field in the shadow password file. The account will remain[m
-[7m Manual page usermod(8) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           available with no date limit.[m
-[7m Manual page usermod(8) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This option requires a /etc/shadow file. A /etc/shadow entry will[m
-[7m Manual page usermod(8) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           be created if there were none.[m
-[7m Manual page usermod(8) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f[22m, [1m--inactive [4m[22mINACTIVE[0m[m
-[7m Manual page usermod(8) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           defines the number of days after the password exceeded its maximum[m
-[7m Manual page usermod(8) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           age during which the user may still login by immediately replacing[m
-[7m Manual page usermod(8) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           the password. This grace period before the account becomes inactive[m
-[7m Manual page usermod(8) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           is stored in the shadow password file. An input of 0 will disable[m
-[7m Manual page usermod(8) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           an expired password with no delay. An input of -1 will blank the[m
-[7m Manual page usermod(8) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           respective field in the shadow password file. See [1mshadow[22m(5) for[m
-[7m Manual page usermod(8) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           more information.[m
-[7m Manual page usermod(8) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This option requires a /etc/shadow file. A /etc/shadow entry will[m
-[7m Manual page usermod(8) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           be created if there were none.[m
-[7m Manual page usermod(8) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-g[22m, [1m--gid [4m[22mGROUP[0m[m
-[7m Manual page usermod(8) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The name or numerical ID of the user's new primary group. The group[m
-[7m Manual page usermod(8) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           must exist.[m
-[7m Manual page usermod(8) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Any file from the user's home directory owned by the previous[m
-[7m Manual page usermod(8) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           primary group of the user will be owned by this new group.[m
-[7m Manual page usermod(8) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The group ownership of files outside of the user's home directory[m
-[7m Manual page usermod(8) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           must be fixed manually.[m
-[7m Manual page usermod(8) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The change of the group ownership of files inside of the user's[m
-[7m Manual page usermod(8) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           home directory is also not done if the home dir owner uid is[m
-[7m Manual page usermod(8) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           different from the current or new user id. This is a safety measure[m
-[7m Manual page usermod(8) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           for special home directories such as /.[m
-[7m Manual page usermod(8) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-G[22m, [1m--groups [4m[22mGROUP1[24m[[4m,GROUP2,...[24m[[4m,GROUPN[24m]]][m
-[7m Manual page usermod(8) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           A list of supplementary groups which the user is also a member of.[m
-[7m Manual page usermod(8) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Each group is separated from the next by a comma, with no[m
-[7m Manual page usermod(8) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           intervening whitespace. The groups must exist.[m
-[7m Manual page usermod(8) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           If the user is currently a member of a group which is not listed,[m
-[7m Manual page usermod(8) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           the user will be removed from the group. This behaviour can be[m
-[7m Manual page usermod(8) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           changed via the [1m-a [22moption, which appends the user to the current[m
-[7m Manual page usermod(8) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           supplementary group list.[m
-[7m Manual page usermod(8) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page usermod(8) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-l[22m, [1m--login [4m[22mNEW_LOGIN[0m[m
-[7m Manual page usermod(8) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The name of the user will be changed from [4mLOGIN[24m to [4mNEW_LOGIN[24m.[m
-[7m Manual page usermod(8) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Nothing else is changed. In particular, the user's home directory[m
-[7m Manual page usermod(8) line 64 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[72C[0m[49m[38;5;101m27s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo groupadd guests[39m[19D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mu[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[1m[31mu[0m[39m[90msermod -d /home/guest/ guest[39m[28D[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mm[0m[39m[1m[31mm[1m[31mo[0m[39m[1m[31mo[1m[31md[0m[39m[0m[32mu[0m[32ms[0m[32me[0m[32mr[0m[32mm[0m[32mo[0m[32md[39m[32md[32m [39m[32md[39m[39m [39m-[39ma[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[90mG vboxsf user[39m[13D[39mG[39m [39mg[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10Duests guest[?1l>[?2004l
-]2;sudo usermod -aG guests guest]1;usermod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo usermod -aG guests guest[39m[28D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31m [0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[1m[31md[0m[39m[0m[39m [90mo usermod -aG guests guest[39m[26D[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mg[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[32mg[39m[90mroupadd guests[39m[14D[32mg[32mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[32mp[32ma[39m[1m[31mg[1m[31mp[1m[31ma[0m[39m[1m[31ma[1m[31ms[0m[39m[1m[31ms[1m[31ms[0m[39m[1m[31ms[1m[31mw[0m[39m[1m[31mw[1m[31md[0m[39m[0m[32mg[0m[32mp[0m[32ma[0m[32ms[0m[32ms[0m[32mw[0m[32md[39m[32md[32m [39m[32md[39m[39m -A guest guests[?1l>[?2004l
-]2;sudo gpasswd -A guest guests]1;gpasswd[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo gpasswd -A guest guests[39m[27D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mu[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[1m[31mu[0m[39m[90msermod -aG guests guest[39m[23D[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[90mdd -e 2025-06-01 -f 3 friend[39m[28D[1m[31ma[1m[31md[0m[39m[1m[31md[1m[31md[0m[39m[0m[32mu[0m[32ms[0m[32me[0m[32mr[0m[32ma[0m[32md[0m[32md[39m[32md[32m [39m[32md[39m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24Dtudent[?1l>[?2004l
-]2;sudo useradd student]1;useradd[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo useradd student[39m[19D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90m useradd student[39m[16D[4m[32md[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[24m[1m[31ms[24m[1m[31mu[24m[1m[31md[0m[39m[90mo useradd student[39m[17D[1m[31ms[1m[31mu[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[0m[32ms[0m[32mu[39m[90mdo useradd student[39m[18D[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo useradd student[39m[19D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20Dsudo useradd student[20D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32mu[32ms[32me[32mr[32ma[32md[32md[39m[8C[15D[32mg[32mp[32ma[32ms[32ms[32mw[2C[39m-A guest guests[23D[32mu[32ms[32me[32mr[32mm[32mo[3C[39maG guests guest [90mt[39m [39m [90mst[39m [39m [39m [90mest[39m [39m [39m [39m [90muest[39m [39m [39m [39m [39m [90mguest[39m[39ms[39m [39m [39m [39m tudent[1m [0m[0m [?1l>[?2004l
-]2;sudo usermod -aG guests student]1;usermod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo usermod -aG guests student[39m[30D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mg[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[32mg[39m[90mpasswd -A guest guests[39m[22D[32mg[32mr[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[90moupadd guests[39m[13D[32mr[32mo[39m[1m[31mg[1m[31mr[1m[31mo[0m[39m[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mp[0m[39m[1m[31mp[1m[31mm[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1m[31mm[1m[31mo[0m[39m[1m[31mo[1m[31md[0m[39m[8D[0m[32mg[0m[32mr[0m[32mo[0m[32mu[0m[32mp[0m[32mm[0m[32mo[0m[32md[39m[32md[32m [39m[32md[39m[39m -n friend s guests[?1l>[?2004l
-]2;sudo groupmod -n friends guests]1;groupmod[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hc[1m[31mc[0m[39m[1m[31mc[0m[39m[90mat /etc/passwd[39m[14D[1m[31mc[1m[31ma[0m[39m[39mt[39m [39m/[39me[39mt[39mc[39m/[39mp[39ma[39ms[39ms[39mw[39md[15D[0m[32mc[0m[32ma[32mt[39m [4m/[4me[4mt[4mc[4m/[4mp[4ma[4ms[4ms[4mw[4md[24m[?1l>[?2004l
-]2;cat /etc/passwd]1;catroot:x:0:0:root:/root:/bin/bash
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin
-systemd-timesync:x:996:996:systemd Time Synchronization:/:/usr/sbin/nologin
-dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
-messagebus:x:101:101::/nonexistent:/usr/sbin/nologin
-syslog:x:102:102::/nonexistent:/usr/sbin/nologin
-systemd-resolve:x:991:991:systemd Resolver:/:/usr/sbin/nologin
-polkitd:x:990:990:User for polkitd:/:/usr/sbin/nologin
-usbmux:x:103:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
-tss:x:104:103:TPM software stack,,,:/var/lib/tpm:/bin/false
-rtkit:x:105:104:RealtimeKit,,,:/proc:/usr/sbin/nologin
-systemd-coredump:x:989:989:systemd Core Dumper:/:/usr/sbin/nologin
-uuidd:x:106:107::/run/uuidd:/usr/sbin/nologin
-cups-pk-helper:x:107:105:user for cups-pk-helper service,,,:/nonexistent:/usr/sbin/nologin
-avahi-autoipd:x:108:111:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
-kernoops:x:109:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
-avahi:x:110:112:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
-dnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin
-_flatpak:x:111:115:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
-nm-openvpn:x:112:116:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
-lightdm:x:113:117:Light Display Manager:/var/lib/lightdm:/bin/false
-tcpdump:x:114:119::/nonexistent:/usr/sbin/nologin
-speech-dispatcher:x:115:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
-fwupd-refresh:x:988:988:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
-geoclue:x:116:120::/var/lib/geoclue:/usr/sbin/nologin
-cups-browsed:x:117:105::/nonexistent:/usr/sbin/nologin
-saned:x:118:123::/var/lib/saned:/usr/sbin/nologin
-hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/false
-colord:x:120:124:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
-user:x:1000:1000:user,,,:/home/user:/bin/zsh
-vboxadd:x:997:1::/var/run/vboxadd:/bin/false
-visitor:x:1002:1002:,,,:/home/visitor:/bin/bash
-guest:x:1001:1001:0,0,0,0,0:/home/guest:/bin/sh
-student:x:1003:1004::/home/student:/bin/sh
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hs[1m[31ms[0m[39m[1m[31ms[0m[39m[90mudo groupmod -n friends guests[39m[30D[1m[31ms[1m[31mu[0m[39m[0m[32ms[0m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[0m[39m[1m[31md[1m[31mo[0m[39m[0m[4m[32ms[0m[4m[32mu[0m[4m[32md[0m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39md[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[32md[39m[90melgroup guest[39m[13D[32md[32me[39m[1m[31md[1m[31me[0m[39m[1m[31me[1m[31ml[0m[39m[1m[31ml[1m[31mg[0m[39m[1m[31mg[1m[31mr[0m[39m[1m[31mr[1m[31mo[0m[39m[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mp[0m[39m[8D[0m[32md[0m[32me[0m[32ml[0m[32mg[0m[32mr[0m[32mo[0m[32mu[0m[32mp[39m[32mp[32m [39m[32mp[39m[39m [39mf[39m [39m [39m [39m [90mriend[39m[39mr[39mi[39me[39mn[39mds[?1l>[?2004l
-]2;sudo delgroup friends]1;delgroupinfo: Removing group `friends' ...
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004hsudo delgroup friends[21D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32md[32me[32ml[32mg[32mr[32mo[32mu[32mp[39m[8C [90ms[39m [39m [90mds[39m [39m [39m [90mnds[39m [39m [39m [39m [90mends[39m [39m [39m [39m [39m [90miends[39m [39m [39m [39m [39m [39m [90mriends[39m [39m [39m [39m [39m [39m [39m [90mfriends[39m[39m [39m [39m [39m [39m [39m [39m [8D[90m friends[39m[8D[32mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1m[31md[1m[31me[1m[31ml[1m[31mg[1m[31mr[1m[31mo[1m[31mu[0m[39m[90mp friends[39m[9D[1m[31mo[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mup friends[39m[10D[1m[31mr[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90moup friends[39m[11D[1m[31mg[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90mroup friends[39m[12D[1m[31ml[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90mgroup friends[39m[13D[1m[31me[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[90mlgroup friends[39m[14D[1m[31me[1m[31ml[0m[39m[1m[31ml[1m[31mu[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[90mser friend[39m[10D[1m[31mu[1m[31ms[0m[39m[1m[31ms[1m[31me[0m[39m[1m[31me[1m[31mr[0m[39m[0m[32md[0m[32me[0m[32ml[0m[32mu[0m[32ms[0m[32me[0m[32mr[39m[32mr[32m [39m[32mr[39m[39m [39mg[39m [39m [39m [39m [39m [90muest[39m[39mu[39me[39ms[39mt[?1l>[?2004l
-]2;sudo deluser guest]1;deluserinfo: Removing crontab ...
-info: Removing user `guest' ...
-[1m[7m%[27m[1m[0m                                                                                ]2;user@vbox:~]1;~]7;file://vbox/home/user\[0m[49m[39m[K
-[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[75C[0m[49m[39m[75D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
-]2;exit]1;exit
-Script done on 2025-03-01 00:05:18+03:00 [COMMAND_EXIT_CODE="0"]
