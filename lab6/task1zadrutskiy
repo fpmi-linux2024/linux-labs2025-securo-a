@@ -1,48 +1,0 @@
-Сценарий запущен на 2025-03-22 16:06:11+03:00 [TERM="linux" TTY="/dev/tty3" COLUMNS="100" LINES="37"]
-[?2004hstudent@astra:~$ clear
-[?2004l[H[J[3J[?2004hstudent@astra:~$ while true:[K; do ecj[Kho >> [1@a[1P[1@a[1P[1@A[1@ [C[C[CTMP1[K[K[K[K[K tmp1[1Ptmp1[C tmp1[C[C[C[C:[K; donesdoneldoneedoneedonepdone done1done0done;done done
-[?2004l^C
-[?2004hstudent@astra:~$ while true; do echo A >> tmp1; sleep 10; done &
-[?2004l[1] 2522
-[?2004hstudent@astra:~$ while true; do echo A >> tmp1; sleep 10; done &[1P[1@2
-[?2004l[2] 2524
-[?2004hstudent@astra:~$ jobs
-[?2004l[1]-  Запущен          while true; do
-    echo A >> tmp1; sleep 10;
-done &
-[2]+  Запущен          while true; do
-    echo A >> tmp2; sleep 10;
-done &
-[?2004hstudent@astra:~$ renice 10 -p 2522
-[?2004l2522 (process ID) старый приоритет 0, новый приоритет 10
-[?2004hstudent@astra:~$ kill1[K 2524
-[?2004l[?2004hstudent@astra:~$ jobs
-[?2004l[1]-  Запущен          while true; do
-    echo A >> tmp1; sleep 10;
-done &
-[2]+  Завершено      while true; do
-    echo A >> tmp2; sleep 10;
-done
-[?2004hstudent@astra:~$ kill 2522
-[?2004l[?2004hstudent@astra:~$ jobs
-[?2004l[1]+  Завершено      while true; do
-    echo A >> tmp1; sleep 10;
-done
-[?2004hstudent@astra:~$ ps aux | head -n 4
-[?2004lUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-root           1  0.6  0.3 172368 15928 ?        Ss   16:04   0:02 /sbin/init splash
-root           2  0.0  0.0      0     0 ?        S    16:04   0:00 [kthreadd]
-root           3  0.0  0.0      0     0 ?        I<   16:04   0:00 [rcu_gp]
-[?2004hstudent@astra:~$ nice -n 18 tar -cvf[K[K[K[K-cvf arch.tar tmp*
-[?2004ltmp1
-tmp2
-[?2004hstudent@astra:~$ su user
-[?2004lПароль: 
-[m[49m[39m[27m[24m[1m[7m%[27m[1m[m                                                                                                   [m[49m[39m[27m[24m[K
-
-[2A7[m[49m[39m
-[m[49m[39m∅ /[1m[39mhome[m[49m[39m/[1m[39mstudent[m[49m[39m[m[49m[39m[m[49m [m[49m[39m❯[m[49m[39m[m[49m[30m[m[30m[49m[39m [m[49m[39m[?2004h[?25l[?1c8[m[49m[39m[27m[24m[J[m[49m[39m[K
-[m[27m[24m[J[m[49m[39m[m[49m[39m∅ /[1m[39mhome[m[49m[39m/[1m[39mstudent[m[49m[39m[m[49m[39m[m[49m [m[49m[39m❯[m[49m[39m[m[49m[30m[m[30m[49m[39m [m[49m[39m[K[81C[m[49m[39m[81D[?25h[?0c[?2004hs[1m[31ms[m[39m[1m[31ms[m[39mudo pkill -u student[20D[1m[31ms[1m[31mu[m[39m[m[32ms[m[32mu[39m[32ms[32mu[32md[39m[1m[31ms[1m[31mu[1m[31md[m[39m[1m[31md[1m[31mo[m[39m[m[4m[32ms[m[4m[32mu[m[4m[32md[m[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [16C[16D[32mp[32mk[32mi[32ml[32ml[39m[11C[?2004l
-[sudo] пароль для user: 
-
-Сценарий выполнен на 2025-03-22 16:11:20+03:00 [COMMAND_EXIT_CODE="0"]
